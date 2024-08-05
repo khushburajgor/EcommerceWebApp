@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Product Details</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <style>
+    .product-image {
+      height: 300px;
+      object-fit: cover;
+      border-radius: 8px;
+    }
+  </style>
+</head>
+<body>
+  <div class="container mt-4">
+    <h1 class="mb-4"><%= @product.title %></h1>
+
+    <div class="row">
+      <div class="col-md-8">
+        <div class="card mb-4">
+          <div class="card-body">
+            <h5 class="card-title">Description</h5>
+            <p class="card-text"><%= @product.description %></p>
+          </div>
+        </div>
+
+        <div class="card mb-4">
+          <div class="card-body">
+            <h5 class="card-title">Category</h5>
+            <p class="card-text"><%= @product.category.name %></p>
+          </div>
+        </div>
+
+        <div class="card mb-4">
+          <div class="card-body">
+            <h5 class="card-title">Images</h5>
+            <div class="row">
+              <% if @product.images.attached? %>
+                <% @product.images.each do |img| %>
+                  <div class="col-md-4 mb-3">
+                    <%= image_tag url_for(img), class: 'product-image' %>
+                  </div>
+                <% end %>
+              <% else %>
+                <div class="col-md-4 mb-3">
+                  <%= image_tag asset_path('default_image.jpg'), class: 'product-image', alt: "No Image Available" %>
+                </div>
+              <% end %>
+            </div>
+          </div>
+        </div>
+
+        <div class="card mb-4">
+          <div class="card-body">
+            <h5 class="card-title">Variants</h5>
+            <% if @product.variants.present? %>
+              <% @product.variants.each do |key, values| %>
+                <div class="mb-2">
+                  <strong><%= key.capitalize %>:</strong>
+                  <p>
+                    <% if values.is_a?(Array) %>
+                      <%= values.join(', ') %>
+                    <% else %>
+                      <%= values %>
+                    <% end %>
+                  </p>
+                </div>
+              <% end %>
+            <% else %>
+              <p>No variants available</p>
+            <% end %>
+          </div>
+        </div>
+
+        <%= link_to 'Back to Products', products_path, class: 'btn btn-primary' %>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

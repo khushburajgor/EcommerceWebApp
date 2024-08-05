@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Product Listing</title>
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
+  <style>
+    .product-image {
+      height: 200px;
+      object-fit: cover;
+    }
+    .search-form {
+      margin-bottom: 20px;
+    }
+    .search-input {
+      width: 80%;
+      display: inline-block;
+    }
+    .search-button {
+      display: inline-block;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1 class="my-4">Product Listing</h1>
+    
+    <%= form_tag products_path, method: :get, class: 'search-form' do %>
+      <div class="input-group mb-3">
+        <%= text_field_tag :query, params[:query], placeholder: "Search products...", class: 'form-control search-input' %>
+        <div class="input-group-append">
+          <%= submit_tag "Search", class: 'btn btn-primary search-button' %>
+        </div>
+      </div>
+    <% end %>
+    
+    <div class="row">
+      <% @products.each do |product| %>
+        <div class="col-md-4 mb-4">
+          <div class="card">
+            <% if product.images.present? %>
+              <div id="carousel-<%= product.id %>" class="carousel slide" data-ride="carousel">
+                <div class="carousel-inner">
+                  <% product.images.each_with_index do |img, index| %>
+                    <div class="carousel-item <%= 'active' if index == 0 %>">
+                      <%= image_tag url_for(img), class: 'd-block w-100 product-image', alt: product.title %>
+                    </div>
+                  <% end %>
+                </div>
+                <a class="carousel-control-prev" href="#carousel-<%= product.id %>" role="button" data-slide="prev">
+                  <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                  <span class="sr-only">Previous</span>
+                </a>
+                <a class="carousel-control-next" href="#carousel-<%= product.id %>" role="button" data-slide="next">
+                  <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                  <span class="sr-only">Next</span>
+                </a>
+              </div>
+            <% else %>
+              <%= image_tag asset_path('default_image.jpg'), class: 'card-img-top product-image', alt: "Default image" %>
+            <% end %>
+            <div class="card-body">
+              <h5 class="card-title"><%= product.title %></h5>
+              <p class="card-text"><%= product.description %></p>
+              <p class="card-text">
+                <strong>Colors:</strong>
+                <% if product.variants["colors"].is_a?(Array) %>
+                  <%= product.variants["colors"].join(', ') %>
+                <% else %>
+                  <%= product.variants["colors"] || 'Not available' %>
+                <% end %>
+                |
+                <strong>Sizes:</strong>
+                <% if product.variants["sizes"].is_a?(Array) %>
+                  <%= product.variants["sizes"].join(', ') %>
+                <% else %>
+                  <%= product.variants["sizes"] || 'Not available' %>
+                <% end %>
+              </p>
+              <%= link_to 'View Details', product_path(product), class: 'btn btn-primary' %>
+            </div>
+          </div>
+        </div>
+      <% end %>
+    </div>
+  </div>
+
+  <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.9.1/dist/umd/popper.min.js"></script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+</body>
+</html>

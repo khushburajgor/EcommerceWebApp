@@ -1,0 +1,2340 @@
+-- Logs begin at Mon 2024-01-29 12:02:01 IST, end at Sat 2024-12-07 17:39:36 IST. --
+Dec 07 17:39:06 rordev sbkeysync[842]:     fe63a84f782cc9d3fcf2ccf9fc11fbd03760878758d26285ed12669bdc6e6d01
+Dec 07 17:39:06 rordev sbkeysync[842]:     fddd6e3d29ea84c7743dad4a1bdbc700b5fec1b391f932409086acc71dd6dbd8
+Dec 07 17:39:06 rordev sbkeysync[842]:     e92c22eb3b5642d65c1ec2caf247d2594738eebb7fb3841a44956f59e2b0d1fa
+Dec 07 17:39:06 rordev sbkeysync[842]:     d8cbeb9735f5672b367e4f96cdc74969615d17074ae96c724d42ce0216f8f3fa
+Dec 07 17:39:06 rordev sbkeysync[842]:     ce3bfabe59d67ce8ac8dfd4a16f7c43ef9c224513fbc655957d735fa29f540ce
+Dec 07 17:39:06 rordev sbkeysync[842]:     cb6b858b40d3a098765815b592c1514a49604fafd60819da88d7a76e9778fef7
+Dec 07 17:39:06 rordev sbkeysync[842]:     c90f336617b8e7f983975413c997f10b73eb267fd8a10cb9e3bdbfc667abdb8b
+Dec 07 17:39:06 rordev sbkeysync[842]:     c617c1a8b1ee2a811c28b5a81b4c83d7c98b5b0c27281d610207ebe692c2967f
+Dec 07 17:39:06 rordev sbkeysync[842]:     c409bdac4775add8db92aa22b5b718fb8c94a1462c1fe9a416b95d8a3388c2fc
+Dec 07 17:39:06 rordev sbkeysync[842]:     bc87a668e81966489cb508ee805183c19e6acd24cf17799ca062d2e384da0ea7
+Dec 07 17:39:06 rordev sbkeysync[842]:     b97a0889059c035ff1d54b6db53b11b9766668d9f955247c028b2837d7a04cd9
+Dec 07 17:39:06 rordev sbkeysync[842]:     b8f078d983a24ac433216393883514cd932c33af18e7dd70884c8235f4275736
+Dec 07 17:39:06 rordev sbkeysync[842]:     b54f1ee636631fad68058d3b0937031ac1b90ccb17062a391cca68afdbe40d55
+Dec 07 17:39:06 rordev sbkeysync[842]:     afe2030afb7d2cda13f9fa333a02e34f6751afec11b010dbcd441fdf4c4002b3
+Dec 07 17:39:06 rordev sbkeysync[842]:     aeebae3151271273ed95aa2e671139ed31a98567303a332298f83709a9d55aa1
+Dec 07 17:39:06 rordev sbkeysync[842]:     ad6826e1946d26d3eaf3685c88d97d85de3b4dcb3d0ee2ae81c70560d13c5720
+Dec 07 17:39:06 rordev sbkeysync[842]:     a7f32f508d4eb0fead9a087ef94ed1ba0aec5de6f7ef6ff0a62b93bedf5d458d
+Dec 07 17:39:06 rordev sbkeysync[842]:     a6b5151f3655d3a2af0d472759796be4a4200e5495a7d869754c4848857408a7
+Dec 07 17:39:06 rordev sbkeysync[842]:     9e4a69173161682e55fde8fef560eb88ec1ffedcaf04001f66c0caf707b2b734
+Dec 07 17:39:06 rordev sbkeysync[842]:     9998d363c491be16bd74ba10b94d9291001611736fdca643a36664bc0f315a42
+Dec 07 17:39:06 rordev sbkeysync[842]:     8d8ea289cfe70a1c07ab7365cb28ee51edd33cf2506de888fbadd60ebf80481c
+Dec 07 17:39:06 rordev sbkeysync[842]:     8bf434b49e00ccf71502a2cd900865cb01ec3b3da03c35be505fdf7bd563f521
+Dec 07 17:39:06 rordev sbkeysync[842]:     8ad64859f195b5f58dafaa940b6a6167acd67a886e8f469364177221c55945b9
+Dec 07 17:39:06 rordev systemd[1]: Finished Remove Stale Online ext4 Metadata Check Snapshots.
+-- Subject: A start job for unit e2scrub_reap.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit e2scrub_reap.service has finished successfully.
+-- 
+-- The job identifier is 206.
+Dec 07 17:39:06 rordev sbkeysync[842]:     895a9785f617ca1d7ed44fc1a1470b71f3f1223862d9ff9dcc3ae2df92163daf
+Dec 07 17:39:06 rordev sbkeysync[842]:     82db3bceb4f60843ce9d97c3d187cd9b5941cd3de8100e586f2bda5637575f67
+Dec 07 17:39:06 rordev sbkeysync[842]:     81a8b965bb84d3876b9429a95481cc955318cfaa1412d808c8a33bfd33fff0e4
+Dec 07 17:39:06 rordev sbkeysync[842]:     7827af99362cfaf0717dade4b1bfe0438ad171c15addc248b75bf8caa44bb2c5
+Dec 07 17:39:06 rordev sbkeysync[842]:     72e0bd1867cf5d9d56ab158adf3bddbc82bf32a8d8aa1d8c5e2f6df29428d6d8
+Dec 07 17:39:06 rordev sbkeysync[842]:     726b3eb654046a30f3f83d9b96ce03f670e9a806d1708a0371e62dc49d2c23c1
+Dec 07 17:39:06 rordev sbkeysync[842]:     71f2906fd222497e54a34662ab2497fcc81020770ff51368e9e3d9bfcbfd6375
+Dec 07 17:39:06 rordev sbkeysync[842]:     6f1428ff71c9db0ed5af1f2e7bbfcbab647cc265ddf5b293cdb626f50a3a785e
+Dec 07 17:39:06 rordev sbkeysync[842]:     6c8854478dd559e29351b826c06cb8bfef2b94ad3538358772d193f82ed1ca11
+Dec 07 17:39:06 rordev sbkeysync[842]:     6b1d138078e4418aa68deb7bb35e066092cf479eeb8ce4cd12e7d072ccb42f66
+Dec 07 17:39:06 rordev sbkeysync[842]:     5ae949ea8855eb93e439dbc65bda2e42852c2fdf6789fa146736e3c3410f2b5c
+Dec 07 17:39:06 rordev sbkeysync[842]:     518831fe7382b514d03e15c621228b8ab65479bd0cbfa3c5c1d0f48d9c306135
+Dec 07 17:39:06 rordev sbkeysync[842]:     47cc086127e2069a86e03a6bef2cd410f8c55a6d6bdb362168c31b2ce32a5adf
+Dec 07 17:39:06 rordev sbkeysync[842]:     4397daca839e7f63077cb50c92df43bc2d2fb2a8f59f26fc7a0e4bd4d9751692
+Dec 07 17:39:06 rordev sbkeysync[842]:     3fce9b9fdf3ef09d5452b0f95ee481c2b7f06d743a737971558e70136ace3e73
+Dec 07 17:39:06 rordev sbkeysync[842]:     3841d221368d1583d75c0a02e62160394d6c4e0a6760b6f607b90362bc855b02
+Dec 07 17:39:06 rordev sbkeysync[842]:     3608edbaf5ad0f41a414a1777abf2faf5e670334675ec3995e6935829e0caad2
+Dec 07 17:39:06 rordev sbkeysync[842]:     306628fa5477305728ba4a467de7d0387a54f569d3769fce5e75ec89d28d1593
+Dec 07 17:39:06 rordev sbkeysync[842]:     2e70916786a6f773511fa7181fab0f1d70b557c6322ea923b2a8d3b92b51af7d
+Dec 07 17:39:06 rordev sbkeysync[842]:     2c73d93325ba6dcbe589d4a4c63c5b935559ef92fbf050ed50c4e2085206f17d
+Dec 07 17:39:06 rordev sbkeysync[842]:     2bbf2ca7b8f1d91f27ee52b6fb2a5dd049b85a2b9b529c5d6662068104b055f8
+Dec 07 17:39:06 rordev sbkeysync[842]:     2b99cf26422e92fe365fbf4bc30d27086c9ee14b7a6fff44fb2f6b9001699939
+Dec 07 17:39:06 rordev sbkeysync[842]:     18333429ff0562ed9f97033e1148dceee52dbe2e496d5410b5cfd6c864d2d10f
+Dec 07 17:39:06 rordev sbkeysync[842]:     174e3a0b5b43c6a607bbd3404f05341e3dcf396267ce94f8b50e2e23a9da920c
+Dec 07 17:39:06 rordev sbkeysync[842]:     106faceacfecfd4e303b74f480a08098e2d0802b936f8ec774ce21f31686689c
+Dec 07 17:39:06 rordev sbkeysync[842]:     0dc9f3fb99962148c3ca833632758d3ed4fc8d0b0007b95b31e6528f2acd5bfc
+Dec 07 17:39:06 rordev sbkeysync[842]:     0d0dbeca6f29eca06f331a7d72e4884b12097fb348983a2a14a0d73f4f10140f
+Dec 07 17:39:06 rordev sbkeysync[842]:     0c189339762df336ab3dd006a463df715a39cfb0f492465c600e6c6bd7bd898c
+Dec 07 17:39:06 rordev sbkeysync[842]:     0bbb4392daac7ab89b30a4ac657531b97bfaab04f90b0dafe5f9b6eb90a06374
+Dec 07 17:39:06 rordev wpa_supplicant[831]: [0;1;39m[0;1;31m[0;1;39mSuccessfully initialized wpa_supplicant[0m
+Dec 07 17:39:06 rordev systemd[1]: grub-initrd-fallback.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit grub-initrd-fallback.service has successfully entered the 'dead' state.
+Dec 07 17:39:06 rordev sbkeysync[842]:     09df5f4e511208ec78b96d12d08125fdb603868de39f6f72927852599b659c26
+Dec 07 17:39:06 rordev sbkeysync[842]:     07e6c6a858646fb1efc67903fe28b116011f2367fe92e6be2b36999eff39d09e
+Dec 07 17:39:06 rordev sbkeysync[842]:     075eea060589548ba060b2feed10da3c20c7fe9b17cd026b94e8a683b8115238
+Dec 07 17:39:06 rordev sbkeysync[842]:     90fbe70e69d633408d3e170c6832dbb2d209e0272527dfb63d49d29572a6f44c
+Dec 07 17:39:06 rordev sbkeysync[842]:     29c6eb52b43c3aa18b2cd8ed6ea8607cef3cfae1bafe1165755cf2e614844a44
+Dec 07 17:39:06 rordev sbkeysync[842]:     d063ec28f67eba53f1642dbf7dff33c6a32add869f6013fe162e2c32f1cbe56d
+Dec 07 17:39:06 rordev sbkeysync[842]:     d626157e1d6a718bc124ab8da27cbb65072ca03a7b6b257dbdcbbd60f65ef3d1
+Dec 07 17:39:06 rordev sbkeysync[842]:     5391c3a2fb112102a6aa1edc25ae77e19f5d6f09cd09eeb2509922bfcd5992ea
+Dec 07 17:39:06 rordev sbkeysync[842]:     58fb941aef95a25943b3fb5f2510a0df3fe44c58c95e0ab80487297568ab9771
+Dec 07 17:39:06 rordev sbkeysync[842]:     c3a99a460da464a057c3586d83cef5f4ae08b7103979ed8932742df0ed530c66
+Dec 07 17:39:06 rordev sbkeysync[842]:     e6ca68e94146629af03f69c2f86e6bef62f930b37c6fbcc878b78df98c0334e5
+Dec 07 17:39:06 rordev sbkeysync[842]:     1aec84b84b6c65a51220a9be7181965230210d62d6d33c48999c6b295a2b0a06
+Dec 07 17:39:06 rordev sbkeysync[842]:     363384d14d1f2e0b7815626484c459ad57a318ef4396266048d058c5a19bbf76
+Dec 07 17:39:06 rordev sbkeysync[842]:     c5d9d8a186e2c82d09afaa2a6f7f2e73870d3e64f72c4e08ef67796a840f0fbd
+Dec 07 17:39:06 rordev sbkeysync[842]:     f52f83a3fa9cfbd6920f722824dbe4034534d25b8507246b3b957dac6e1bce7a
+Dec 07 17:39:06 rordev sbkeysync[842]:     80b4d96931bf0d02fd91a61e19d14f1da452e66db2408ca8604d411f92659f0a
+Dec 07 17:39:06 rordev sbkeysync[842]: filesystem keys:
+Dec 07 17:39:06 rordev sbkeysync[842]:   PK:
+Dec 07 17:39:06 rordev sbkeysync[842]:   KEK:
+Dec 07 17:39:06 rordev sbkeysync[842]:   db:
+Dec 07 17:39:06 rordev sbkeysync[842]:   dbx:
+Dec 07 17:39:06 rordev sbkeysync[842]:     45c7c8ae750acfbb48fc37527d6412dd644daed8913ccd8a24c94d856967df8e
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     64575bd912789a2e14ad56f6341f52af6bf80cf94400785975e9f04e2d64d745
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     939aeef4f5fa51e23340c3f2e49048ce8872526afdf752c3a7f3a3f2bc9f6049
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     3b0287533e0cc3d0ec1aa823cbf0a941aad8721579d1c499802dd1c3a636b8a9
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     c83cb13922ad99f560744675dd37cc94dcad5a1fcba6472fee341171d939e884
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     77dd190fa30d88ff5e3b011a0ae61e6209780c130b535ecb87e6f0888a0b6b2f
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     55b99b0de53dbcfe485aa9c737cf3fb616ef3d91fab599aa7cab19eda763b5ba
+Dec 07 17:39:06 rordev bluetoothd[788]: Starting SDP server
+Dec 07 17:39:06 rordev systemd[1]: Finished GRUB failed boot detection.
+-- Subject: A start job for unit grub-initrd-fallback.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit grub-initrd-fallback.service has finished successfully.
+-- 
+-- The job identifier is 178.
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     ca171d614a8d7e121c93948cd0fe55d39981f9d11aa96e03450a415227c2c65b
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     fecfb232d12e994b6d485d2c7167728aa5525984ad5ca61e7516221f079a1436
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     fe63a84f782cc9d3fcf2ccf9fc11fbd03760878758d26285ed12669bdc6e6d01
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     fddd6e3d29ea84c7743dad4a1bdbc700b5fec1b391f932409086acc71dd6dbd8
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     e92c22eb3b5642d65c1ec2caf247d2594738eebb7fb3841a44956f59e2b0d1fa
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     d8cbeb9735f5672b367e4f96cdc74969615d17074ae96c724d42ce0216f8f3fa
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     ce3bfabe59d67ce8ac8dfd4a16f7c43ef9c224513fbc655957d735fa29f540ce
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     cb6b858b40d3a098765815b592c1514a49604fafd60819da88d7a76e9778fef7
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     c90f336617b8e7f983975413c997f10b73eb267fd8a10cb9e3bdbfc667abdb8b
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     c617c1a8b1ee2a811c28b5a81b4c83d7c98b5b0c27281d610207ebe692c2967f
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     c409bdac4775add8db92aa22b5b718fb8c94a1462c1fe9a416b95d8a3388c2fc
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     bc87a668e81966489cb508ee805183c19e6acd24cf17799ca062d2e384da0ea7
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     b97a0889059c035ff1d54b6db53b11b9766668d9f955247c028b2837d7a04cd9
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     b8f078d983a24ac433216393883514cd932c33af18e7dd70884c8235f4275736
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     b54f1ee636631fad68058d3b0937031ac1b90ccb17062a391cca68afdbe40d55
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev avahi-daemon[786]: Successfully called chroot().
+Dec 07 17:39:06 rordev systemd[1]: Started Bluetooth service.
+-- Subject: A start job for unit bluetooth.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit bluetooth.service has finished successfully.
+-- 
+-- The job identifier is 230.
+Dec 07 17:39:06 rordev sbkeysync[842]:     afe2030afb7d2cda13f9fa333a02e34f6751afec11b010dbcd441fdf4c4002b3
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     aeebae3151271273ed95aa2e671139ed31a98567303a332298f83709a9d55aa1
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     ad6826e1946d26d3eaf3685c88d97d85de3b4dcb3d0ee2ae81c70560d13c5720
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     a7f32f508d4eb0fead9a087ef94ed1ba0aec5de6f7ef6ff0a62b93bedf5d458d
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     a6b5151f3655d3a2af0d472759796be4a4200e5495a7d869754c4848857408a7
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     9e4a69173161682e55fde8fef560eb88ec1ffedcaf04001f66c0caf707b2b734
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     9998d363c491be16bd74ba10b94d9291001611736fdca643a36664bc0f315a42
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     8d8ea289cfe70a1c07ab7365cb28ee51edd33cf2506de888fbadd60ebf80481c
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     8bf434b49e00ccf71502a2cd900865cb01ec3b3da03c35be505fdf7bd563f521
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     8ad64859f195b5f58dafaa940b6a6167acd67a886e8f469364177221c55945b9
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     895a9785f617ca1d7ed44fc1a1470b71f3f1223862d9ff9dcc3ae2df92163daf
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     82db3bceb4f60843ce9d97c3d187cd9b5941cd3de8100e586f2bda5637575f67
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     81a8b965bb84d3876b9429a95481cc955318cfaa1412d808c8a33bfd33fff0e4
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     7827af99362cfaf0717dade4b1bfe0438ad171c15addc248b75bf8caa44bb2c5
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     72e0bd1867cf5d9d56ab158adf3bddbc82bf32a8d8aa1d8c5e2f6df29428d6d8
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     726b3eb654046a30f3f83d9b96ce03f670e9a806d1708a0371e62dc49d2c23c1
+Dec 07 17:39:06 rordev avahi-daemon[786]: Successfully dropped remaining capabilities.
+Dec 07 17:39:06 rordev systemd[1]: Reached target Bluetooth.
+-- Subject: A start job for unit bluetooth.target has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit bluetooth.target has finished successfully.
+-- 
+-- The job identifier is 229.
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     71f2906fd222497e54a34662ab2497fcc81020770ff51368e9e3d9bfcbfd6375
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     6f1428ff71c9db0ed5af1f2e7bbfcbab647cc265ddf5b293cdb626f50a3a785e
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     6c8854478dd559e29351b826c06cb8bfef2b94ad3538358772d193f82ed1ca11
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     6b1d138078e4418aa68deb7bb35e066092cf479eeb8ce4cd12e7d072ccb42f66
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     5ae949ea8855eb93e439dbc65bda2e42852c2fdf6789fa146736e3c3410f2b5c
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     518831fe7382b514d03e15c621228b8ab65479bd0cbfa3c5c1d0f48d9c306135
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     47cc086127e2069a86e03a6bef2cd410f8c55a6d6bdb362168c31b2ce32a5adf
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     4397daca839e7f63077cb50c92df43bc2d2fb2a8f59f26fc7a0e4bd4d9751692
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     3fce9b9fdf3ef09d5452b0f95ee481c2b7f06d743a737971558e70136ace3e73
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     3841d221368d1583d75c0a02e62160394d6c4e0a6760b6f607b90362bc855b02
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     3608edbaf5ad0f41a414a1777abf2faf5e670334675ec3995e6935829e0caad2
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     306628fa5477305728ba4a467de7d0387a54f569d3769fce5e75ec89d28d1593
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     2e70916786a6f773511fa7181fab0f1d70b557c6322ea923b2a8d3b92b51af7d
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     2c73d93325ba6dcbe589d4a4c63c5b935559ef92fbf050ed50c4e2085206f17d
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     2bbf2ca7b8f1d91f27ee52b6fb2a5dd049b85a2b9b529c5d6662068104b055f8
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev kernel: Bluetooth: BNEP (Ethernet Emulation) ver 1.3
+Dec 07 17:39:06 rordev kernel: Bluetooth: BNEP filters: protocol multicast
+Dec 07 17:39:06 rordev kernel: Bluetooth: BNEP socket layer initialized
+Dec 07 17:39:06 rordev kernel: NET: Registered PF_ALG protocol family
+Dec 07 17:39:06 rordev avahi-daemon[786]: No service file found in /etc/avahi/services.
+Dec 07 17:39:06 rordev systemd[1]: Started WPA supplicant.
+-- Subject: A start job for unit wpa_supplicant.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit wpa_supplicant.service has finished successfully.
+-- 
+-- The job identifier is 200.
+Dec 07 17:39:06 rordev thermald[829]: I/O warning : failed to load external entity "/etc/thermald/thermal-conf.xml"
+Dec 07 17:39:06 rordev thermald[829]: I/O warning : failed to load external entity "/etc/thermald/thermal-conf.xml"
+Dec 07 17:39:06 rordev sbkeysync[842]:     2b99cf26422e92fe365fbf4bc30d27086c9ee14b7a6fff44fb2f6b9001699939
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     18333429ff0562ed9f97033e1148dceee52dbe2e496d5410b5cfd6c864d2d10f
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     174e3a0b5b43c6a607bbd3404f05341e3dcf396267ce94f8b50e2e23a9da920c
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     106faceacfecfd4e303b74f480a08098e2d0802b936f8ec774ce21f31686689c
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     0dc9f3fb99962148c3ca833632758d3ed4fc8d0b0007b95b31e6528f2acd5bfc
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     0d0dbeca6f29eca06f331a7d72e4884b12097fb348983a2a14a0d73f4f10140f
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     0c189339762df336ab3dd006a463df715a39cfb0f492465c600e6c6bd7bd898c
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     0bbb4392daac7ab89b30a4ac657531b97bfaab04f90b0dafe5f9b6eb90a06374
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     09df5f4e511208ec78b96d12d08125fdb603868de39f6f72927852599b659c26
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     07e6c6a858646fb1efc67903fe28b116011f2367fe92e6be2b36999eff39d09e
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     075eea060589548ba060b2feed10da3c20c7fe9b17cd026b94e8a683b8115238
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     90fbe70e69d633408d3e170c6832dbb2d209e0272527dfb63d49d29572a6f44c
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     29c6eb52b43c3aa18b2cd8ed6ea8607cef3cfae1bafe1165755cf2e614844a44
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     d063ec28f67eba53f1642dbf7dff33c6a32add869f6013fe162e2c32f1cbe56d
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     d626157e1d6a718bc124ab8da27cbb65072ca03a7b6b257dbdcbbd60f65ef3d1
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     5391c3a2fb112102a6aa1edc25ae77e19f5d6f09cd09eeb2509922bfcd5992ea
+Dec 07 17:39:06 rordev avahi-daemon[786]: Joining mDNS multicast group on interface lo.IPv6 with address ::1.
+Dec 07 17:39:06 rordev systemd[1]: Started Avahi mDNS/DNS-SD Stack.
+-- Subject: A start job for unit avahi-daemon.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit avahi-daemon.service has finished successfully.
+-- 
+-- The job identifier is 183.
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     58fb941aef95a25943b3fb5f2510a0df3fe44c58c95e0ab80487297568ab9771
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     c3a99a460da464a057c3586d83cef5f4ae08b7103979ed8932742df0ed530c66
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     e6ca68e94146629af03f69c2f86e6bef62f930b37c6fbcc878b78df98c0334e5
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     1aec84b84b6c65a51220a9be7181965230210d62d6d33c48999c6b295a2b0a06
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     363384d14d1f2e0b7815626484c459ad57a318ef4396266048d058c5a19bbf76
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     c5d9d8a186e2c82d09afaa2a6f7f2e73870d3e64f72c4e08ef67796a840f0fbd
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     f52f83a3fa9cfbd6920f722824dbe4034534d25b8507246b3b957dac6e1bce7a
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]:     80b4d96931bf0d02fd91a61e19d14f1da452e66db2408ca8604d411f92659f0a
+Dec 07 17:39:06 rordev sbkeysync[842]:      from /usr/share/secureboot/updates/dbx/MS-2016-08-08.bin
+Dec 07 17:39:06 rordev sbkeysync[842]: New keys in filesystem:
+Dec 07 17:39:06 rordev avahi-daemon[786]: New relevant interface lo.IPv6 for mDNS.
+Dec 07 17:39:06 rordev systemd[1]: Started Make remote CUPS printers available locally.
+-- Subject: A start job for unit cups-browsed.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit cups-browsed.service has finished successfully.
+-- 
+-- The job identifier is 188.
+Dec 07 17:39:06 rordev avahi-daemon[786]: Joining mDNS multicast group on interface lo.IPv4 with address 127.0.0.1.
+Dec 07 17:39:06 rordev systemd[1]: Started Thermal Daemon Service.
+-- Subject: A start job for unit thermald.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit thermald.service has finished successfully.
+-- 
+-- The job identifier is 100.
+Dec 07 17:39:06 rordev avahi-daemon[786]: New relevant interface lo.IPv4 for mDNS.
+Dec 07 17:39:06 rordev systemd[1]: Started Switcheroo Control Proxy service.
+-- Subject: A start job for unit switcheroo-control.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit switcheroo-control.service has finished successfully.
+-- 
+-- The job identifier is 207.
+Dec 07 17:39:06 rordev avahi-daemon[786]: Network interface enumeration completed.
+Dec 07 17:39:06 rordev systemd[1]: Condition check resulted in Manage Sound Card State (restore and store) being skipped.
+-- Subject: A start job for unit alsa-state.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit alsa-state.service has finished successfully.
+-- 
+-- The job identifier is 298.
+Dec 07 17:39:06 rordev avahi-daemon[786]: Registering new address record for ::1 on lo.*.
+Dec 07 17:39:06 rordev systemd[1]: Starting Save/Restore Sound Card State...
+-- Subject: A start job for unit alsa-restore.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit alsa-restore.service has begun execution.
+-- 
+-- The job identifier is 364.
+Dec 07 17:39:06 rordev avahi-daemon[786]: Registering new address record for 127.0.0.1 on lo.IPv4.
+Dec 07 17:39:06 rordev systemd[1]: Started Authorization Manager.
+-- Subject: A start job for unit polkit.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit polkit.service has finished successfully.
+-- 
+-- The job identifier is 196.
+Dec 07 17:39:06 rordev polkitd[809]: started daemon version 0.105 using authority implementation `local' version `0.105'
+Dec 07 17:39:06 rordev systemd[1]: Starting Modem Manager...
+-- Subject: A start job for unit ModemManager.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit ModemManager.service has begun execution.
+-- 
+-- The job identifier is 195.
+Dec 07 17:39:06 rordev thermald[829]: [0;1;39m[0;1;31m[0;1;39m22 CPUID levels; family:model:stepping 0x6:4e:3 (6:78:3)[0m
+Dec 07 17:39:06 rordev systemd[1]: Starting Hostname Service...
+-- Subject: A start job for unit systemd-hostnamed.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit systemd-hostnamed.service has begun execution.
+-- 
+-- The job identifier is 826.
+Dec 07 17:39:06 rordev thermald[829]: [0;1;39m[0;1;31m[0;1;39m22 CPUID levels; family:model:stepping 0x6:4e:3 (6:78:3)[0m
+Dec 07 17:39:06 rordev udisksd[830]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mfailed to load module mdraid: libbd_mdraid.so.2: cannot open shared object file: No such file or directory[0m
+Dec 07 17:39:06 rordev bluetoothd[788]: Bluetooth management interface 1.21 initialized
+Dec 07 17:39:06 rordev NetworkManager[795]: <info>  [1733573346.3903] NetworkManager (version 1.22.10) is starting... (for the first time)
+Dec 07 17:39:06 rordev thermald[829]: [0;1;39m[0;1;31m[0;1;39mPolling mode is enabled: 4[0m
+Dec 07 17:39:06 rordev NetworkManager[795]: <info>  [1733573346.3904] Read config: /etc/NetworkManager/NetworkManager.conf (lib: 10-dns-resolved.conf, 20-connectivity-ubuntu.conf, no-mac-addr-change.conf) (run: 10-globally-managed-devices.conf) (etc: 10-ubuntu-fan.conf, default-wifi-powersave-on.conf)
+Dec 07 17:39:06 rordev thermald[829]: I/O warning : failed to load external entity "/etc/thermald/thermal-conf.xml"
+Dec 07 17:39:06 rordev dbus-daemon[793]: [system] Activating via systemd: service name='org.freedesktop.hostname1' unit='dbus-org.freedesktop.hostname1.service' requested by ':1.3' (uid=0 pid=788 comm="/usr/lib/bluetooth/bluetoothd " label="unconfined")
+Dec 07 17:39:06 rordev systemd[1]: Starting Manage, Install and Generate Color Profiles...
+-- Subject: A start job for unit colord.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit colord.service has begun execution.
+-- 
+-- The job identifier is 900.
+Dec 07 17:39:06 rordev thermald[829]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185msensor id 7 : No temp sysfs for reading raw temp[0m
+Dec 07 17:39:06 rordev systemd[1]: Started Network Manager.
+-- Subject: A start job for unit NetworkManager.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit NetworkManager.service has finished successfully.
+-- 
+-- The job identifier is 123.
+Dec 07 17:39:06 rordev thermald[829]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185msensor id 7 : No temp sysfs for reading raw temp[0m
+Dec 07 17:39:06 rordev systemd[1]: Reached target Network.
+-- Subject: A start job for unit network.target has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit network.target has finished successfully.
+-- 
+-- The job identifier is 124.
+Dec 07 17:39:06 rordev thermald[829]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185msensor id 7 : No temp sysfs for reading raw temp[0m
+Dec 07 17:39:06 rordev NetworkManager[795]: <info>  [1733573346.3963] bus-manager: acquired D-Bus service "org.freedesktop.NetworkManager"
+Dec 07 17:39:06 rordev thermald[829]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185merror: could not parse file /etc/thermald/thermal-conf.xml[0m
+Dec 07 17:39:06 rordev systemd[1]: Starting Network Manager Wait Online...
+-- Subject: A start job for unit NetworkManager-wait-online.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit NetworkManager-wait-online.service has begun execution.
+-- 
+-- The job identifier is 122.
+Dec 07 17:39:06 rordev thermald[829]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185merror: could not parse file /etc/thermald/thermal-conf.xml[0m
+Dec 07 17:39:06 rordev systemd[1]: Starting containerd container runtime...
+-- Subject: A start job for unit containerd.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit containerd.service has begun execution.
+-- 
+-- The job identifier is 145.
+Dec 07 17:39:06 rordev dbus-daemon[793]: [system] Activating via systemd: service name='org.freedesktop.ColorManager' unit='colord.service' requested by ':1.11' (uid=0 pid=792 comm="/usr/sbin/cupsd -l " label="/usr/sbin/cupsd (enforce)")
+Dec 07 17:39:06 rordev systemd[1]: Starting MySQL Community Server...
+-- Subject: A start job for unit mysql.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit mysql.service has begun execution.
+-- 
+-- The job identifier is 170.
+Dec 07 17:39:06 rordev thermald[829]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185merror: could not parse file /etc/thermald/thermal-conf.xml[0m
+Dec 07 17:39:06 rordev systemd[1]: Starting OpenVPN service...
+-- Subject: A start job for unit openvpn.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit openvpn.service has begun execution.
+-- 
+-- The job identifier is 132.
+Dec 07 17:39:06 rordev systemd[1]: Starting PostgreSQL Cluster 12-main...
+-- Subject: A start job for unit postgresql@12-main.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit postgresql@12-main.service has begun execution.
+-- 
+-- The job identifier is 137.
+Dec 07 17:39:06 rordev systemd[1]: Starting Advanced key-value store...
+-- Subject: A start job for unit redis-server.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit redis-server.service has begun execution.
+-- 
+-- The job identifier is 194.
+Dec 07 17:39:06 rordev systemd[1]: Condition check resulted in fast remote file copy program daemon being skipped.
+-- Subject: A start job for unit rsync.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit rsync.service has finished successfully.
+-- 
+-- The job identifier is 162.
+Dec 07 17:39:06 rordev systemd[1]: Starting Service for snap application docker.nvidia-container-toolkit...
+-- Subject: A start job for unit snap.docker.nvidia-container-toolkit.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit snap.docker.nvidia-container-toolkit.service has begun execution.
+-- 
+-- The job identifier is 186.
+Dec 07 17:39:06 rordev systemd[1]: Started Service for snap application redis.server.
+-- Subject: A start job for unit snap.redis.server.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit snap.redis.server.service has finished successfully.
+-- 
+-- The job identifier is 129.
+Dec 07 17:39:06 rordev systemd[1]: Starting OpenBSD Secure Shell server...
+-- Subject: A start job for unit ssh.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit ssh.service has begun execution.
+-- 
+-- The job identifier is 148.
+Dec 07 17:39:06 rordev systemd[1]: Starting Permit User Sessions...
+-- Subject: A start job for unit systemd-user-sessions.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit systemd-user-sessions.service has begun execution.
+-- 
+-- The job identifier is 153.
+Dec 07 17:39:06 rordev systemd[1]: Finished Save/Restore Sound Card State.
+-- Subject: A start job for unit alsa-restore.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit alsa-restore.service has finished successfully.
+-- 
+-- The job identifier is 364.
+Dec 07 17:39:06 rordev systemd[1]: Reached target Sound Card.
+-- Subject: A start job for unit sound.target has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit sound.target has finished successfully.
+-- 
+-- The job identifier is 297.
+Dec 07 17:39:06 rordev systemd[1]: Finished OpenVPN service.
+-- Subject: A start job for unit openvpn.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit openvpn.service has finished successfully.
+-- 
+-- The job identifier is 132.
+Dec 07 17:39:06 rordev udisksd[830]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mFailed to load the 'mdraid' libblockdev plugin[0m
+Dec 07 17:39:06 rordev systemd[1]: Finished Permit User Sessions.
+-- Subject: A start job for unit systemd-user-sessions.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit systemd-user-sessions.service has finished successfully.
+-- 
+-- The job identifier is 153.
+Dec 07 17:39:06 rordev systemd[1]: Starting GNOME Display Manager...
+-- Subject: A start job for unit gdm.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit gdm.service has begun execution.
+-- 
+-- The job identifier is 202.
+Dec 07 17:39:06 rordev NetworkManager[795]: <info>  [1733573346.4626] manager[0x559f76174010]: monitoring kernel firmware directory '/lib/firmware'.
+Dec 07 17:39:06 rordev NetworkManager[795]: <info>  [1733573346.4626] monitoring ifupdown state file '/run/network/ifstate'.
+Dec 07 17:39:06 rordev systemd[1]: Starting Hold until boot process finishes up...
+-- Subject: A start job for unit plymouth-quit-wait.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit plymouth-quit-wait.service has begun execution.
+-- 
+-- The job identifier is 171.
+Dec 07 17:39:06 rordev systemd-logind[828]: New seat seat0.
+-- Subject: A new seat seat0 is now available
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- Documentation: https://www.freedesktop.org/wiki/Software/systemd/multiseat
+-- 
+-- A new seat seat0 has been configured and is now available.
+Dec 07 17:39:06 rordev systemd[1]: Started Manage, Install and Generate Color Profiles.
+-- Subject: A start job for unit colord.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit colord.service has finished successfully.
+-- 
+-- The job identifier is 900.
+Dec 07 17:39:06 rordev dbus-daemon[793]: [system] Successfully activated service 'org.freedesktop.ColorManager'
+Dec 07 17:39:06 rordev systemd-logind[828]: Watching system buttons on /dev/input/event2 (Power Button)
+Dec 07 17:39:06 rordev ModemManager[875]: <info>  ModemManager (version 1.18.6) starting in system bus...
+Dec 07 17:39:06 rordev systemd-logind[828]: Watching system buttons on /dev/input/event1 (Lid Switch)
+Dec 07 17:39:06 rordev systemd-logind[828]: Watching system buttons on /dev/input/event0 (Sleep Button)
+Dec 07 17:39:06 rordev systemd[1]: Started GNOME Display Manager.
+-- Subject: A start job for unit gdm.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit gdm.service has finished successfully.
+-- 
+-- The job identifier is 202.
+Dec 07 17:39:06 rordev systemd[1]: Stopping CUPS Scheduler...
+-- Subject: A stop job for unit cups.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A stop job for unit cups.service has begun execution.
+-- 
+-- The job identifier is 974.
+Dec 07 17:39:06 rordev systemd[1]: cups.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit cups.service has successfully entered the 'dead' state.
+Dec 07 17:39:06 rordev systemd[1]: Stopped CUPS Scheduler.
+-- Subject: A stop job for unit cups.service has finished
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A stop job for unit cups.service has finished.
+-- 
+-- The job identifier is 974 and the job result is done.
+Dec 07 17:39:06 rordev systemd[1]: Started CUPS Scheduler.
+-- Subject: A start job for unit cups.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit cups.service has finished successfully.
+-- 
+-- The job identifier is 974.
+Dec 07 17:39:06 rordev sshd[961]: Server listening on 0.0.0.0 port 22.
+Dec 07 17:39:06 rordev sshd[961]: Server listening on :: port 22.
+Dec 07 17:39:06 rordev systemd[1]: Started OpenBSD Secure Shell server.
+-- Subject: A start job for unit ssh.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit ssh.service has finished successfully.
+-- 
+-- The job identifier is 148.
+Dec 07 17:39:06 rordev systemd[1]: Received SIGRTMIN+21 from PID 423 (plymouthd).
+Dec 07 17:39:06 rordev dbus-daemon[793]: [system] Activating via systemd: service name='org.freedesktop.login1' unit='dbus-org.freedesktop.login1.service' requested by ':1.16' (uid=0 pid=972 comm="/usr/sbin/gdm3 " label="unconfined")
+Dec 07 17:39:06 rordev systemd[1]: Condition check resulted in Load Kernel Module drm being skipped.
+-- Subject: A start job for unit modprobe@drm.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit modprobe@drm.service has finished successfully.
+-- 
+-- The job identifier is 1050.
+Dec 07 17:39:06 rordev accounts-daemon[782]: started daemon version 0.6.55
+Dec 07 17:39:06 rordev systemd[1]: Started Accounts Service.
+-- Subject: A start job for unit accounts-daemon.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit accounts-daemon.service has finished successfully.
+-- 
+-- The job identifier is 208.
+Dec 07 17:39:06 rordev dbus-daemon[793]: [system] Successfully activated service 'org.freedesktop.hostname1'
+Dec 07 17:39:06 rordev systemd[1]: Started Hostname Service.
+-- Subject: A start job for unit systemd-hostnamed.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit systemd-hostnamed.service has finished successfully.
+-- 
+-- The job identifier is 826.
+Dec 07 17:39:06 rordev NetworkManager[795]: <info>  [1733573346.7562] hostname: hostname: using hostnamed
+Dec 07 17:39:06 rordev NetworkManager[795]: <info>  [1733573346.7562] hostname: hostname changed from (none) to "rordev"
+Dec 07 17:39:06 rordev NetworkManager[795]: <info>  [1733573346.7565] dns-mgr[0x559f7615e290]: init: dns=systemd-resolved rc-manager=symlink, plugin=systemd-resolved
+Dec 07 17:39:06 rordev NetworkManager[795]: <info>  [1733573346.7581] rfkill2: found Wi-Fi radio killswitch (at /sys/devices/pci0000:00/0000:00:1c.6/0000:04:00.0/ieee80211/phy0/rfkill2) (driver iwlwifi)
+Dec 07 17:39:06 rordev NetworkManager[795]: <info>  [1733573346.7585] manager[0x559f76174010]: rfkill: Wi-Fi hardware radio set enabled
+Dec 07 17:39:06 rordev NetworkManager[795]: <info>  [1733573346.7586] manager[0x559f76174010]: rfkill: WWAN hardware radio set enabled
+Dec 07 17:39:06 rordev NetworkManager[795]: <info>  [1733573346.7955] Loaded device plugin: NMWifiFactory (/usr/lib/x86_64-linux-gnu/NetworkManager/1.22.10/libnm-device-plugin-wifi.so)
+Dec 07 17:39:06 rordev NetworkManager[795]: <info>  [1733573346.7993] Loaded device plugin: NMAtmManager (/usr/lib/x86_64-linux-gnu/NetworkManager/1.22.10/libnm-device-plugin-adsl.so)
+Dec 07 17:39:06 rordev NetworkManager[795]: <info>  [1733573346.8195] Loaded device plugin: NMBluezManager (/usr/lib/x86_64-linux-gnu/NetworkManager/1.22.10/libnm-device-plugin-bluetooth.so)
+Dec 07 17:39:06 rordev postgresql@12-main[901]: Removed stale pid file.
+Dec 07 17:39:06 rordev NetworkManager[795]: <info>  [1733573346.8302] Loaded device plugin: NMWwanFactory (/usr/lib/x86_64-linux-gnu/NetworkManager/1.22.10/libnm-device-plugin-wwan.so)
+Dec 07 17:39:06 rordev rsyslogd[814]: [origin software="rsyslogd" swVersion="8.2001.0" x-pid="814" x-info="https://www.rsyslog.com"] rsyslogd was HUPed
+Dec 07 17:39:06 rordev systemd[1]: Started Modem Manager.
+-- Subject: A start job for unit ModemManager.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit ModemManager.service has finished successfully.
+-- 
+-- The job identifier is 195.
+Dec 07 17:39:06 rordev NetworkManager[795]: <info>  [1733573346.8508] Loaded device plugin: NMTeamFactory (/usr/lib/x86_64-linux-gnu/NetworkManager/1.22.10/libnm-device-plugin-team.so)
+Dec 07 17:39:06 rordev NetworkManager[795]: <info>  [1733573346.8512] manager: rfkill: Wi-Fi enabled by radio killswitch; enabled by state file
+Dec 07 17:39:06 rordev NetworkManager[795]: <info>  [1733573346.8514] manager: rfkill: WWAN enabled by radio killswitch; enabled by state file
+Dec 07 17:39:06 rordev NetworkManager[795]: <info>  [1733573346.8515] manager: Networking is enabled by state file
+Dec 07 17:39:06 rordev NetworkManager[795]: <info>  [1733573346.8519] dhcp-init: Using DHCP client 'internal'
+Dec 07 17:39:06 rordev dbus-daemon[793]: [system] Activating via systemd: service name='org.freedesktop.nm_dispatcher' unit='dbus-org.freedesktop.nm-dispatcher.service' requested by ':1.12' (uid=0 pid=795 comm="/usr/sbin/NetworkManager --no-daemon " label="unconfined")
+Dec 07 17:39:06 rordev systemd-logind[828]: Watching system buttons on /dev/input/event3 (AT Translated Set 2 keyboard)
+Dec 07 17:39:06 rordev systemd-logind[828]: Watching system buttons on /dev/input/event6 (ThinkPad Extra Buttons)
+Dec 07 17:39:06 rordev dbus-daemon[793]: [system] Successfully activated service 'org.freedesktop.login1'
+Dec 07 17:39:06 rordev systemd[1]: Started Login Service.
+-- Subject: A start job for unit systemd-logind.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit systemd-logind.service has finished successfully.
+-- 
+-- The job identifier is 164.
+Dec 07 17:39:06 rordev NetworkManager[795]: <info>  [1733573346.8675] settings: Loaded settings plugin: ifupdown ("/usr/lib/x86_64-linux-gnu/NetworkManager/1.22.10/libnm-settings-plugin-ifupdown.so")
+Dec 07 17:39:06 rordev NetworkManager[795]: <info>  [1733573346.8676] settings: Loaded settings plugin: keyfile (internal)
+Dec 07 17:39:06 rordev NetworkManager[795]: <info>  [1733573346.8676] ifupdown: management mode: unmanaged
+Dec 07 17:39:06 rordev systemd[1]: Starting Network Manager Script Dispatcher Service...
+-- Subject: A start job for unit NetworkManager-dispatcher.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit NetworkManager-dispatcher.service has begun execution.
+-- 
+-- The job identifier is 1051.
+Dec 07 17:39:06 rordev NetworkManager[795]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m<warn>  [1733573346.8683] ifupdown: interfaces file /etc/network/interfaces doesn't exist[0m
+Dec 07 17:39:06 rordev systemd[1]: Started Unattended Upgrades Shutdown.
+-- Subject: A start job for unit unattended-upgrades.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit unattended-upgrades.service has finished successfully.
+-- 
+-- The job identifier is 104.
+Dec 07 17:39:06 rordev dbus-daemon[793]: [system] Successfully activated service 'org.freedesktop.nm_dispatcher'
+Dec 07 17:39:06 rordev systemd[1]: Started Network Manager Script Dispatcher Service.
+-- Subject: A start job for unit NetworkManager-dispatcher.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit NetworkManager-dispatcher.service has finished successfully.
+-- 
+-- The job identifier is 1051.
+Dec 07 17:39:06 rordev systemd[1]: Started Disk Manager.
+-- Subject: A start job for unit udisks2.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit udisks2.service has finished successfully.
+-- 
+-- The job identifier is 201.
+Dec 07 17:39:06 rordev udisksd[830]: [0;1;39m[0;1;31m[0;1;39mAcquired the name org.freedesktop.UDisks2 on the system message bus[0m
+Dec 07 17:39:06 rordev systemd[1]: Started Advanced key-value store.
+-- Subject: A start job for unit redis-server.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit redis-server.service has finished successfully.
+-- 
+-- The job identifier is 194.
+Dec 07 17:39:07 rordev NetworkManager[795]: <info>  [1733573347.0455] device (lo): carrier: link connected
+Dec 07 17:39:07 rordev NetworkManager[795]: <info>  [1733573347.0461] manager: (lo): new Generic device (/org/freedesktop/NetworkManager/Devices/1)
+Dec 07 17:39:07 rordev NetworkManager[795]: <info>  [1733573347.0478] manager: (enp0s31f6): new Ethernet device (/org/freedesktop/NetworkManager/Devices/2)
+Dec 07 17:39:07 rordev NetworkManager[795]: <info>  [1733573347.0540] settings: (enp0s31f6): created default wired connection 'Wired connection 1'
+Dec 07 17:39:07 rordev NetworkManager[795]: <info>  [1733573347.0571] device (enp0s31f6): state change: unmanaged -> unavailable (reason 'managed', sys-iface-state: 'external')
+Dec 07 17:39:07 rordev networkd-dispatcher[1033]: WARNING: systemd-networkd is not running, output will be incomplete.
+Dec 07 17:39:07 rordev avahi-daemon[786]: Server startup complete. Host name is rordev.local. Local service cookie is 2475222536.
+Dec 07 17:39:07 rordev gdm-launch-environment][1015]: pam_unix(gdm-launch-environment:session): session opened for user gdm by (uid=0)
+Dec 07 17:39:07 rordev colord[888]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mfailed to get session [pid 981]: No data available[0m
+Dec 07 17:39:07 rordev systemd[1]: Created slice User Slice of UID 126.
+-- Subject: A start job for unit user-126.slice has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit user-126.slice has finished successfully.
+-- 
+-- The job identifier is 1199.
+Dec 07 17:39:07 rordev systemd[1]: Starting User Runtime Directory /run/user/126...
+-- Subject: A start job for unit user-runtime-dir@126.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit user-runtime-dir@126.service has begun execution.
+-- 
+-- The job identifier is 1126.
+Dec 07 17:39:07 rordev NetworkManager[795]: <info>  [1733573347.2981] device (wlp4s0): driver supports Access Point (AP) mode
+Dec 07 17:39:07 rordev NetworkManager[795]: <info>  [1733573347.2987] manager: (wlp4s0): new 802.11 Wi-Fi device (/org/freedesktop/NetworkManager/Devices/3)
+Dec 07 17:39:07 rordev NetworkManager[795]: <info>  [1733573347.2998] device (wlp4s0): state change: unmanaged -> unavailable (reason 'managed', sys-iface-state: 'external')
+Dec 07 17:39:07 rordev kernel: iwlwifi 0000:04:00.0: Applying debug destination EXTERNAL_DRAM
+Dec 07 17:39:07 rordev systemd-logind[828]: New session c1 of user gdm.
+-- Subject: A new session c1 has been created for user gdm
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- Documentation: https://www.freedesktop.org/wiki/Software/systemd/multiseat
+-- 
+-- A new session with the ID c1 has been created for the user gdm.
+-- 
+-- The leading process of the session is 1015.
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.338549549+05:30" level=info msg="starting containerd" revision= version=1.7.2
+Dec 07 17:39:07 rordev systemd[1]: Finished User Runtime Directory /run/user/126.
+-- Subject: A start job for unit user-runtime-dir@126.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit user-runtime-dir@126.service has finished successfully.
+-- 
+-- The job identifier is 1126.
+Dec 07 17:39:07 rordev systemd[1]: Starting User Manager for UID 126...
+-- Subject: A start job for unit user@126.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit user@126.service has begun execution.
+-- 
+-- The job identifier is 1125.
+Dec 07 17:39:07 rordev systemd[1061]: pam_unix(systemd-user:session): session opened for user gdm by (uid=0)
+Dec 07 17:39:07 rordev systemd[1]: logrotate.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit logrotate.service has successfully entered the 'dead' state.
+Dec 07 17:39:07 rordev systemd[1]: Finished Rotate log files.
+-- Subject: A start job for unit logrotate.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit logrotate.service has finished successfully.
+-- 
+-- The job identifier is 607.
+Dec 07 17:39:07 rordev colord[888]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mfailed to get session [pid 981]: No data available[0m
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.418262305+05:30" level=info msg="loading plugin \"io.containerd.snapshotter.v1.aufs\"..." type=io.containerd.snapshotter.v1
+Dec 07 17:39:07 rordev audit[869]: [0;34m[0;34mAVC apparmor="DENIED" operation="capable" profile="/usr/sbin/cups-browsed" pid=869 comm="cups-browsed" capability=23  capname="sys_nice"[0m
+Dec 07 17:39:07 rordev kernel: iwlwifi 0000:04:00.0: Applying debug destination EXTERNAL_DRAM
+Dec 07 17:39:07 rordev kernel: aufs 5.15.5-20211129
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.471770898+05:30" level=info msg="loading plugin \"io.containerd.snapshotter.v1.btrfs\"..." type=io.containerd.snapshotter.v1
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.472262708+05:30" level=info msg="skip loading plugin \"io.containerd.snapshotter.v1.btrfs\"..." error="path /var/lib/containerd/io.containerd.snapshotter.v1.btrfs (ext4) must be a btrfs filesystem to be used with the btrfs snapshotter: skip plugin" type=io.containerd.snapshotter.v1
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.472311355+05:30" level=info msg="loading plugin \"io.containerd.content.v1.content\"..." type=io.containerd.content.v1
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.473088209+05:30" level=info msg="loading plugin \"io.containerd.snapshotter.v1.native\"..." type=io.containerd.snapshotter.v1
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.473384450+05:30" level=info msg="loading plugin \"io.containerd.snapshotter.v1.overlayfs\"..." type=io.containerd.snapshotter.v1
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.473810604+05:30" level=info msg="loading plugin \"io.containerd.snapshotter.v1.devmapper\"..." type=io.containerd.snapshotter.v1
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.473847018+05:30" level=warning msg="failed to load plugin io.containerd.snapshotter.v1.devmapper" error="devmapper not configured"
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.473883189+05:30" level=info msg="loading plugin \"io.containerd.snapshotter.v1.zfs\"..." type=io.containerd.snapshotter.v1
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.474647919+05:30" level=info msg="skip loading plugin \"io.containerd.snapshotter.v1.zfs\"..." error="path /var/lib/containerd/io.containerd.snapshotter.v1.zfs must be a zfs filesystem to be used with the zfs snapshotter: skip plugin" type=io.containerd.snapshotter.v1
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.474846654+05:30" level=info msg="loading plugin \"io.containerd.metadata.v1.bolt\"..." type=io.containerd.metadata.v1
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.475047871+05:30" level=warning msg="could not use snapshotter devmapper in metadata plugin" error="devmapper not configured"
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.475233159+05:30" level=info msg="metadata content store policy set" policy=shared
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.476959642+05:30" level=info msg="loading plugin \"io.containerd.differ.v1.walking\"..." type=io.containerd.differ.v1
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.477250142+05:30" level=info msg="loading plugin \"io.containerd.event.v1.exchange\"..." type=io.containerd.event.v1
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.477437528+05:30" level=info msg="loading plugin \"io.containerd.gc.v1.scheduler\"..." type=io.containerd.gc.v1
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.477640896+05:30" level=info msg="loading plugin \"io.containerd.lease.v1.manager\"..." type=io.containerd.lease.v1
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.477819460+05:30" level=info msg="loading plugin \"io.containerd.nri.v1.nri\"..." type=io.containerd.nri.v1
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.477981131+05:30" level=info msg="NRI interface is disabled by configuration."
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.478143660+05:30" level=info msg="loading plugin \"io.containerd.runtime.v2.task\"..." type=io.containerd.runtime.v2
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.478428015+05:30" level=info msg="loading plugin \"io.containerd.runtime.v2.shim\"..." type=io.containerd.runtime.v2
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.478610108+05:30" level=info msg="loading plugin \"io.containerd.sandbox.store.v1.local\"..." type=io.containerd.sandbox.store.v1
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.478777652+05:30" level=info msg="loading plugin \"io.containerd.sandbox.controller.v1.local\"..." type=io.containerd.sandbox.controller.v1
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.478950780+05:30" level=info msg="loading plugin \"io.containerd.streaming.v1.manager\"..." type=io.containerd.streaming.v1
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.479130766+05:30" level=info msg="loading plugin \"io.containerd.service.v1.introspection-service\"..." type=io.containerd.service.v1
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.479314873+05:30" level=info msg="loading plugin \"io.containerd.service.v1.containers-service\"..." type=io.containerd.service.v1
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.479481927+05:30" level=info msg="loading plugin \"io.containerd.service.v1.content-service\"..." type=io.containerd.service.v1
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.479672785+05:30" level=info msg="loading plugin \"io.containerd.service.v1.diff-service\"..." type=io.containerd.service.v1
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.479845570+05:30" level=info msg="loading plugin \"io.containerd.service.v1.images-service\"..." type=io.containerd.service.v1
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.480017164+05:30" level=info msg="loading plugin \"io.containerd.service.v1.namespaces-service\"..." type=io.containerd.service.v1
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.480182318+05:30" level=info msg="loading plugin \"io.containerd.service.v1.snapshots-service\"..." type=io.containerd.service.v1
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.480216318+05:30" level=info msg="loading plugin \"io.containerd.runtime.v1.linux\"..." type=io.containerd.runtime.v1
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.480324959+05:30" level=info msg="loading plugin \"io.containerd.monitor.v1.cgroups\"..." type=io.containerd.monitor.v1
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.484006853+05:30" level=info msg="loading plugin \"io.containerd.service.v1.tasks-service\"..." type=io.containerd.service.v1
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.484081609+05:30" level=info msg="loading plugin \"io.containerd.grpc.v1.introspection\"..." type=io.containerd.grpc.v1
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.484113664+05:30" level=info msg="loading plugin \"io.containerd.transfer.v1.local\"..." type=io.containerd.transfer.v1
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.484168830+05:30" level=info msg="loading plugin \"io.containerd.internal.v1.restart\"..." type=io.containerd.internal.v1
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.492398028+05:30" level=info msg="loading plugin \"io.containerd.grpc.v1.containers\"..." type=io.containerd.grpc.v1
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.492564123+05:30" level=info msg="loading plugin \"io.containerd.grpc.v1.content\"..." type=io.containerd.grpc.v1
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.492593735+05:30" level=info msg="loading plugin \"io.containerd.grpc.v1.diff\"..." type=io.containerd.grpc.v1
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.492624347+05:30" level=info msg="loading plugin \"io.containerd.grpc.v1.events\"..." type=io.containerd.grpc.v1
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.492645645+05:30" level=info msg="loading plugin \"io.containerd.grpc.v1.healthcheck\"..." type=io.containerd.grpc.v1
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.492665244+05:30" level=info msg="loading plugin \"io.containerd.grpc.v1.images\"..." type=io.containerd.grpc.v1
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.492696387+05:30" level=info msg="loading plugin \"io.containerd.grpc.v1.leases\"..." type=io.containerd.grpc.v1
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.492723017+05:30" level=info msg="loading plugin \"io.containerd.grpc.v1.namespaces\"..." type=io.containerd.grpc.v1
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.492755061+05:30" level=info msg="loading plugin \"io.containerd.internal.v1.opt\"..." type=io.containerd.internal.v1
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.493710249+05:30" level=info msg="loading plugin \"io.containerd.grpc.v1.sandbox-controllers\"..." type=io.containerd.grpc.v1
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.493787437+05:30" level=info msg="loading plugin \"io.containerd.grpc.v1.sandboxes\"..." type=io.containerd.grpc.v1
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.493821312+05:30" level=info msg="loading plugin \"io.containerd.grpc.v1.snapshots\"..." type=io.containerd.grpc.v1
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.493852829+05:30" level=info msg="loading plugin \"io.containerd.grpc.v1.streaming\"..." type=io.containerd.grpc.v1
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.493875288+05:30" level=info msg="loading plugin \"io.containerd.grpc.v1.tasks\"..." type=io.containerd.grpc.v1
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.493907533+05:30" level=info msg="loading plugin \"io.containerd.grpc.v1.transfer\"..." type=io.containerd.grpc.v1
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.493929060+05:30" level=info msg="loading plugin \"io.containerd.grpc.v1.version\"..." type=io.containerd.grpc.v1
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.493952787+05:30" level=info msg="loading plugin \"io.containerd.grpc.v1.cri\"..." type=io.containerd.grpc.v1
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.494132636+05:30" level=info msg="Start cri plugin with config {PluginConfig:{ContainerdConfig:{Snapshotter:overlayfs DefaultRuntimeName:runc DefaultRuntime:{Type: Path: Engine: PodAnnotations:[] ContainerAnnotations:[] Root: Options:map[] PrivilegedWithoutHostDevices:false PrivilegedWithoutHostDevicesAllDevicesAllowed:false BaseRuntimeSpec: NetworkPluginConfDir: NetworkPluginMaxConfNum:0 Snapshotter: SandboxMode:} UntrustedWorkloadRuntime:{Type: Path: Engine: PodAnnotations:[] ContainerAnnotations:[] Root: Options:map[] PrivilegedWithoutHostDevices:false PrivilegedWithoutHostDevicesAllDevicesAllowed:false BaseRuntimeSpec: NetworkPluginConfDir: NetworkPluginMaxConfNum:0 Snapshotter: SandboxMode:} Runtimes:map[runc:{Type:io.containerd.runc.v2 Path: Engine: PodAnnotations:[] ContainerAnnotations:[] Root: Options:map[BinaryName: CriuImagePath: CriuPath: CriuWorkPath: IoGid:0 IoUid:0 NoNewKeyring:false NoPivotRoot:false Root: ShimCgroup: SystemdCgroup:false] PrivilegedWithoutHostDevices:false PrivilegedWithoutHostDevicesAllDevicesAllowed:false BaseRuntimeSpec: NetworkPluginConfDir: NetworkPluginMaxConfNum:0 Snapshotter: SandboxMode:podsandbox}] NoPivot:false DisableSnapshotAnnotations:true DiscardUnpackedLayers:false IgnoreBlockIONotEnabledErrors:false IgnoreRdtNotEnabledErrors:false} CniConfig:{NetworkPluginBinDir:/opt/cni/bin NetworkPluginConfDir:/etc/cni/net.d NetworkPluginMaxConfNum:1 NetworkPluginSetupSerially:false NetworkPluginConfTemplate: IPPreference:} Registry:{ConfigPath: Mirrors:map[] Configs:map[] Auths:map[] Headers:map[]} ImageDecryption:{KeyModel:node} DisableTCPService:true StreamServerAddress:127.0.0.1 StreamServerPort:0 StreamIdleTimeout:4h0m0s EnableSelinux:false SelinuxCategoryRange:1024 SandboxImage:registry.k8s.io/pause:3.8 StatsCollectPeriod:10 SystemdCgroup:false EnableTLSStreaming:false X509KeyPairStreaming:{TLSCertFile: TLSKeyFile:} MaxContainerLogLineSize:16384 DisableCgroup:false DisableApparmor:false RestrictOOMScoreAdj:false MaxConcurrentDownloads:3 DisableProcMount:false UnsetSeccompProfile: TolerateMissingHugetlbController:true DisableHugetlbController:true DeviceOwnershipFromSecurityContext:false IgnoreImageDefinedVolumes:false NetNSMountsUnderStateDir:false EnableUnprivilegedPorts:false EnableUnprivilegedICMP:false EnableCDI:false CDISpecDirs:[/etc/cdi /var/run/cdi] ImagePullProgressTimeout:1m0s DrainExecSyncIOTimeout:0s} ContainerdRootDir:/var/lib/containerd ContainerdEndpoint:/run/containerd/containerd.sock RootDir:/var/lib/containerd/io.containerd.grpc.v1.cri StateDir:/run/containerd/io.containerd.grpc.v1.cri}"
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.494226661+05:30" level=info msg="Connect containerd service"
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.494264969+05:30" level=info msg="using legacy CRI server"
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.494286151+05:30" level=info msg="using experimental NRI integration - disable nri plugin to prevent this"
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.495319788+05:30" level=info msg="Get image filesystem path \"/var/lib/containerd/io.containerd.snapshotter.v1.overlayfs\""
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.498658336+05:30" level=error msg="failed to load cni during init, please check CRI plugin status before setting up network for pods" error="cni config load failed: no network config found in /etc/cni/net.d: cni plugin not initialized: failed to load cni config"
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.499723361+05:30" level=info msg="loading plugin \"io.containerd.tracing.processor.v1.otlp\"..." type=io.containerd.tracing.processor.v1
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.499825566+05:30" level=info msg="skip loading plugin \"io.containerd.tracing.processor.v1.otlp\"..." error="no OpenTelemetry endpoint: skip plugin" type=io.containerd.tracing.processor.v1
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.499847651+05:30" level=info msg="loading plugin \"io.containerd.internal.v1.tracing\"..." type=io.containerd.internal.v1
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.499867693+05:30" level=info msg="skipping tracing processor initialization (no tracing plugin)" error="no OpenTelemetry endpoint: skip plugin"
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.500927033+05:30" level=info msg="Start subscribing containerd event"
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.502039822+05:30" level=info msg="Start recovering state"
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.502139473+05:30" level=info msg="Start event monitor"
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.502168681+05:30" level=info msg="Start snapshots syncer"
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.502182678+05:30" level=info msg="Start cni network conf syncer for default"
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.502197492+05:30" level=info msg="Start streaming server"
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.501150213+05:30" level=info msg=serving... address=/run/containerd/containerd.sock.ttrpc
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.502388511+05:30" level=info msg=serving... address=/run/containerd/containerd.sock
+Dec 07 17:39:07 rordev containerd[915]: time="2024-12-07T17:39:07.502466087+05:30" level=info msg="containerd successfully booted in 0.166364s"
+Dec 07 17:39:07 rordev systemd[1]: Started containerd container runtime.
+-- Subject: A start job for unit containerd.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit containerd.service has finished successfully.
+-- 
+-- The job identifier is 145.
+Dec 07 17:39:07 rordev kernel: iwlwifi 0000:04:00.0: FW already configured (0) - re-configuring
+Dec 07 17:39:07 rordev networkd-dispatcher[804]: ERROR:Unknown state for interface NetworkctlListState(idx=1, name='lo', type='loopback', operational='n/a', administrative='unmanaged'): n/a
+Dec 07 17:39:07 rordev networkd-dispatcher[804]: Traceback (most recent call last):
+Dec 07 17:39:07 rordev networkd-dispatcher[804]:   File "/usr/bin/networkd-dispatcher", line 298, in trigger_all
+Dec 07 17:39:07 rordev networkd-dispatcher[804]:     self.handle_state(iface_name,
+Dec 07 17:39:07 rordev networkd-dispatcher[804]:   File "/usr/bin/networkd-dispatcher", line 348, in handle_state
+Dec 07 17:39:07 rordev networkd-dispatcher[804]:     raise UnknownState(operational_state)
+Dec 07 17:39:07 rordev networkd-dispatcher[804]: UnknownState: n/a
+Dec 07 17:39:07 rordev networkd-dispatcher[804]: ERROR:Unknown state for interface NetworkctlListState(idx=2, name='enp0s31f6', type='ether', operational='n/a', administrative='unmanaged'): n/a
+Dec 07 17:39:07 rordev networkd-dispatcher[804]: Traceback (most recent call last):
+Dec 07 17:39:07 rordev networkd-dispatcher[804]:   File "/usr/bin/networkd-dispatcher", line 298, in trigger_all
+Dec 07 17:39:07 rordev networkd-dispatcher[804]:     self.handle_state(iface_name,
+Dec 07 17:39:07 rordev networkd-dispatcher[804]:   File "/usr/bin/networkd-dispatcher", line 348, in handle_state
+Dec 07 17:39:07 rordev networkd-dispatcher[804]:     raise UnknownState(operational_state)
+Dec 07 17:39:07 rordev networkd-dispatcher[804]: UnknownState: n/a
+Dec 07 17:39:07 rordev networkd-dispatcher[804]: ERROR:Unknown state for interface NetworkctlListState(idx=3, name='wlp4s0', type='wlan', operational='n/a', administrative='unmanaged'): n/a
+Dec 07 17:39:07 rordev networkd-dispatcher[804]: Traceback (most recent call last):
+Dec 07 17:39:07 rordev networkd-dispatcher[804]:   File "/usr/bin/networkd-dispatcher", line 298, in trigger_all
+Dec 07 17:39:07 rordev networkd-dispatcher[804]:     self.handle_state(iface_name,
+Dec 07 17:39:07 rordev networkd-dispatcher[804]:   File "/usr/bin/networkd-dispatcher", line 348, in handle_state
+Dec 07 17:39:07 rordev networkd-dispatcher[804]:     raise UnknownState(operational_state)
+Dec 07 17:39:07 rordev networkd-dispatcher[804]: UnknownState: n/a
+Dec 07 17:39:07 rordev systemd[1]: Started Dispatcher daemon for systemd-networkd.
+-- Subject: A start job for unit networkd-dispatcher.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit networkd-dispatcher.service has finished successfully.
+-- 
+-- The job identifier is 150.
+Dec 07 17:39:07 rordev NetworkManager[795]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m<warn>  [1733573347.5984] Error: failed to open /run/network/ifstate[0m
+Dec 07 17:39:07 rordev systemd[1061]: Started Pending report trigger for Ubuntu Report.
+-- Subject: A start job for unit UNIT has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has finished successfully.
+-- 
+-- The job identifier is 22.
+Dec 07 17:39:07 rordev systemd[1061]: Reached target Paths.
+-- Subject: A start job for unit UNIT has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has finished successfully.
+-- 
+-- The job identifier is 20.
+Dec 07 17:39:07 rordev systemd[1061]: Reached target Timers.
+-- Subject: A start job for unit UNIT has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has finished successfully.
+-- 
+-- The job identifier is 19.
+Dec 07 17:39:07 rordev systemd[1061]: Starting D-Bus User Message Bus Socket.
+-- Subject: A start job for unit UNIT has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has begun execution.
+-- 
+-- The job identifier is 12.
+Dec 07 17:39:07 rordev systemd[1061]: Listening on GnuPG network certificate management daemon.
+-- Subject: A start job for unit UNIT has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has finished successfully.
+-- 
+-- The job identifier is 11.
+Dec 07 17:39:07 rordev systemd[1061]: Listening on GnuPG cryptographic agent and passphrase cache (access for web browsers).
+-- Subject: A start job for unit UNIT has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has finished successfully.
+-- 
+-- The job identifier is 17.
+Dec 07 17:39:07 rordev systemd[1061]: Listening on GnuPG cryptographic agent and passphrase cache (restricted).
+-- Subject: A start job for unit UNIT has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has finished successfully.
+-- 
+-- The job identifier is 8.
+Dec 07 17:39:07 rordev systemd[1061]: Listening on GnuPG cryptographic agent (ssh-agent emulation).
+-- Subject: A start job for unit UNIT has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has finished successfully.
+-- 
+-- The job identifier is 14.
+Dec 07 17:39:07 rordev systemd[1061]: Listening on GnuPG cryptographic agent and passphrase cache.
+-- Subject: A start job for unit UNIT has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has finished successfully.
+-- 
+-- The job identifier is 16.
+Dec 07 17:39:07 rordev systemd[1061]: Listening on debconf communication socket.
+-- Subject: A start job for unit UNIT has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has finished successfully.
+-- 
+-- The job identifier is 18.
+Dec 07 17:39:07 rordev systemd[1061]: Listening on Sound System.
+-- Subject: A start job for unit UNIT has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has finished successfully.
+-- 
+-- The job identifier is 13.
+Dec 07 17:39:07 rordev systemd[1061]: Listening on REST API socket for snapd user session agent.
+-- Subject: A start job for unit UNIT has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has finished successfully.
+-- 
+-- The job identifier is 15.
+Dec 07 17:39:07 rordev systemd[1061]: Listening on D-Bus User Message Bus Socket.
+-- Subject: A start job for unit UNIT has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has finished successfully.
+-- 
+-- The job identifier is 12.
+Dec 07 17:39:07 rordev systemd[1061]: Reached target Sockets.
+-- Subject: A start job for unit UNIT has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has finished successfully.
+-- 
+-- The job identifier is 7.
+Dec 07 17:39:07 rordev systemd[1061]: Reached target Basic System.
+-- Subject: A start job for unit UNIT has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has finished successfully.
+-- 
+-- The job identifier is 6.
+Dec 07 17:39:07 rordev systemd[1]: Started User Manager for UID 126.
+-- Subject: A start job for unit user@126.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit user@126.service has finished successfully.
+-- 
+-- The job identifier is 1125.
+Dec 07 17:39:07 rordev systemd[1061]: Starting Sound Service...
+-- Subject: A start job for unit UNIT has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has begun execution.
+-- 
+-- The job identifier is 23.
+Dec 07 17:39:07 rordev systemd[1]: Started Session c1 of user gdm.
+-- Subject: A start job for unit session-c1.scope has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit session-c1.scope has finished successfully.
+-- 
+-- The job identifier is 1201.
+Dec 07 17:39:07 rordev systemd[1061]: Starting Tracker metadata extractor...
+-- Subject: A start job for unit UNIT has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has begun execution.
+-- 
+-- The job identifier is 21.
+Dec 07 17:39:07 rordev systemd[1061]: Starting Tracker file system data miner...
+-- Subject: A start job for unit UNIT has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has begun execution.
+-- 
+-- The job identifier is 24.
+Dec 07 17:39:07 rordev NetworkManager[795]: <info>  [1733573347.7281] modem-manager: ModemManager available
+Dec 07 17:39:07 rordev NetworkManager[795]: <info>  [1733573347.7399] manager: (D8:A3:15:5B:AC:82): new Bluetooth device (/org/freedesktop/NetworkManager/Devices/4)
+Dec 07 17:39:07 rordev NetworkManager[795]: <info>  [1733573347.7409] device (D8:A3:15:5B:AC:82): state change: unmanaged -> unavailable (reason 'managed', sys-iface-state: 'external')
+Dec 07 17:39:07 rordev NetworkManager[795]: <info>  [1733573347.7551] manager: (F0:65:AE:87:6C:E1): new Bluetooth device (/org/freedesktop/NetworkManager/Devices/5)
+Dec 07 17:39:07 rordev NetworkManager[795]: <info>  [1733573347.7610] device (F0:65:AE:87:6C:E1): state change: unmanaged -> unavailable (reason 'managed', sys-iface-state: 'external')
+Dec 07 17:39:07 rordev NetworkManager[795]: <info>  [1733573347.7686] supplicant: wpa_supplicant running
+Dec 07 17:39:07 rordev NetworkManager[795]: <info>  [1733573347.7687] device (wlp4s0): supplicant interface state: init -> starting
+Dec 07 17:39:07 rordev systemd[1061]: Started D-Bus User Message Bus.
+-- Subject: A start job for unit UNIT has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has finished successfully.
+-- 
+-- The job identifier is 27.
+Dec 07 17:39:07 rordev NetworkManager[795]: <info>  [1733573347.7800] device (D8:A3:15:5B:AC:82): state change: unavailable -> disconnected (reason 'none', sys-iface-state: 'managed')
+Dec 07 17:39:07 rordev NetworkManager[795]: <info>  [1733573347.7837] device (F0:65:AE:87:6C:E1): state change: unavailable -> disconnected (reason 'none', sys-iface-state: 'managed')
+Dec 07 17:39:07 rordev tracker-miner-f[1079]: [0;1;39m[0;1;31m[0;1;39mSet scheduler policy to SCHED_IDLE[0m
+Dec 07 17:39:07 rordev tracker-miner-f[1079]: [0;1;39m[0;1;31m[0;1;39mSetting priority nice level to 19[0m
+Dec 07 17:39:07 rordev tracker-extract[1078]: [0;1;39m[0;1;31m[0;1;39mSet scheduler policy to SCHED_IDLE[0m
+Dec 07 17:39:07 rordev tracker-extract[1078]: [0;1;39m[0;1;31m[0;1;39mSetting priority nice level to 19[0m
+Dec 07 17:39:07 rordev NetworkManager[795]: <info>  [1733573347.8432] sup-iface[0x559f76187920,wlp4s0]: supports 5 scan SSIDs
+Dec 07 17:39:07 rordev NetworkManager[795]: <info>  [1733573347.8446] device (wlp4s0): supplicant interface state: starting -> ready
+Dec 07 17:39:07 rordev NetworkManager[795]: <info>  [1733573347.8447] Wi-Fi P2P device controlled by interface wlp4s0 created
+Dec 07 17:39:07 rordev NetworkManager[795]: <info>  [1733573347.8451] manager: (p2p-dev-wlp4s0): new 802.11 Wi-Fi P2P device (/org/freedesktop/NetworkManager/Devices/6)
+Dec 07 17:39:07 rordev NetworkManager[795]: <info>  [1733573347.8459] device (p2p-dev-wlp4s0): state change: unmanaged -> unavailable (reason 'managed', sys-iface-state: 'external')
+Dec 07 17:39:07 rordev NetworkManager[795]: <info>  [1733573347.8472] device (p2p-dev-wlp4s0): state change: unavailable -> disconnected (reason 'none', sys-iface-state: 'managed')
+Dec 07 17:39:07 rordev NetworkManager[795]: <info>  [1733573347.8477] device (wlp4s0): state change: unavailable -> disconnected (reason 'supplicant-available', sys-iface-state: 'managed')
+Dec 07 17:39:07 rordev NetworkManager[795]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m<warn>  [1733573347.8489] sup-iface: failed to cancel p2p connect: P2P cancel failed[0m
+Dec 07 17:39:07 rordev dbus-daemon[793]: [system] Activating via systemd: service name='org.freedesktop.RealtimeKit1' unit='rtkit-daemon.service' requested by ':1.31' (uid=126 pid=1077 comm="/usr/bin/pulseaudio --daemonize=no --log-target=jo" label="unconfined")
+Dec 07 17:39:07 rordev systemd[1]: Starting RealtimeKit Scheduling Policy Service...
+-- Subject: A start job for unit rtkit-daemon.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit rtkit-daemon.service has begun execution.
+-- 
+-- The job identifier is 1278.
+Dec 07 17:39:07 rordev dbus-daemon[793]: [system] Successfully activated service 'org.freedesktop.RealtimeKit1'
+Dec 07 17:39:07 rordev rtkit-daemon[1096]: [0;38;5;245m[0;1;31m[0;38;5;245mSuccessfully called chroot.[0m
+Dec 07 17:39:07 rordev systemd[1]: Started RealtimeKit Scheduling Policy Service.
+-- Subject: A start job for unit rtkit-daemon.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit rtkit-daemon.service has finished successfully.
+-- 
+-- The job identifier is 1278.
+Dec 07 17:39:07 rordev rtkit-daemon[1096]: [0;38;5;245m[0;1;31m[0;38;5;245mSuccessfully dropped privileges.[0m
+Dec 07 17:39:07 rordev rtkit-daemon[1096]: [0;38;5;245m[0;1;31m[0;38;5;245mSuccessfully limited resources.[0m
+Dec 07 17:39:07 rordev rtkit-daemon[1096]: [0;38;5;245m[0;1;31m[0;38;5;245mRunning.[0m
+Dec 07 17:39:07 rordev rtkit-daemon[1096]: [0;38;5;245m[0;1;31m[0;38;5;245mCanary thread running.[0m
+Dec 07 17:39:07 rordev rtkit-daemon[1096]: [0;38;5;245m[0;1;31m[0;38;5;245mWatchdog thread running.[0m
+Dec 07 17:39:07 rordev rtkit-daemon[1096]: Successfully made thread 1077 of process 1077 owned by '126' high priority at nice level -11.
+Dec 07 17:39:07 rordev rtkit-daemon[1096]: [0;38;5;245m[0;1;31m[0;38;5;245mSupervising 1 threads of 1 processes of 1 users.[0m
+Dec 07 17:39:07 rordev systemd[1061]: tmp-snap.rootfs_BrFw0C.mount: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit UNIT has successfully entered the 'dead' state.
+Dec 07 17:39:07 rordev systemd[1]: tmp-snap.rootfs_BrFw0C.mount: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit tmp-snap.rootfs_BrFw0C.mount has successfully entered the 'dead' state.
+Dec 07 17:39:07 rordev systemd[1061]: tmp-snap.rootfs_F3JjAN.mount: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit UNIT has successfully entered the 'dead' state.
+Dec 07 17:39:07 rordev systemd[1]: tmp-snap.rootfs_F3JjAN.mount: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit tmp-snap.rootfs_F3JjAN.mount has successfully entered the 'dead' state.
+Dec 07 17:39:08 rordev dbus-daemon[1090]: [session uid=126 pid=1090] AppArmor D-Bus mediation is enabled
+Dec 07 17:39:08 rordev dbus-daemon[1090]: [session uid=126 pid=1090] Activating via systemd: service name='org.gtk.vfs.Daemon' unit='gvfs-daemon.service' requested by ':1.3' (uid=126 pid=1079 comm="/usr/libexec/tracker-miner-fs " label="unconfined")
+Dec 07 17:39:08 rordev systemd[1061]: Starting Virtual filesystem service...
+-- Subject: A start job for unit UNIT has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has begun execution.
+-- 
+-- The job identifier is 43.
+Dec 07 17:39:08 rordev systemd[1]: man-db.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit man-db.service has successfully entered the 'dead' state.
+Dec 07 17:39:08 rordev dbus-daemon[1090]: [session uid=126 pid=1090] Successfully activated service 'org.gtk.vfs.Daemon'
+Dec 07 17:39:08 rordev systemd[1061]: Started Virtual filesystem service.
+-- Subject: A start job for unit UNIT has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has finished successfully.
+-- 
+-- The job identifier is 43.
+Dec 07 17:39:08 rordev systemd[1]: Finished Daily man-db regeneration.
+-- Subject: A start job for unit man-db.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit man-db.service has finished successfully.
+-- 
+-- The job identifier is 534.
+Dec 07 17:39:08 rordev tracker-miner-f[1079]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mUnable to get XDG user directory path for special directory &DOCUMENTS. Ignoring this location.[0m
+Dec 07 17:39:08 rordev tracker-miner-f[1079]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mUnable to get XDG user directory path for special directory &MUSIC. Ignoring this location.[0m
+Dec 07 17:39:08 rordev tracker-miner-f[1079]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mUnable to get XDG user directory path for special directory &PICTURES. Ignoring this location.[0m
+Dec 07 17:39:08 rordev tracker-miner-f[1079]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mUnable to get XDG user directory path for special directory &VIDEOS. Ignoring this location.[0m
+Dec 07 17:39:08 rordev tracker-miner-f[1079]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mUnable to get XDG user directory path for special directory &DOWNLOAD. Ignoring this location.[0m
+Dec 07 17:39:08 rordev tracker-miner-f[1079]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mUnable to get XDG user directory path for special directory &DOCUMENTS. Ignoring this location.[0m
+Dec 07 17:39:08 rordev tracker-miner-f[1079]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mUnable to get XDG user directory path for special directory &MUSIC. Ignoring this location.[0m
+Dec 07 17:39:08 rordev tracker-miner-f[1079]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mUnable to get XDG user directory path for special directory &PICTURES. Ignoring this location.[0m
+Dec 07 17:39:08 rordev tracker-miner-f[1079]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mUnable to get XDG user directory path for special directory &VIDEOS. Ignoring this location.[0m
+Dec 07 17:39:08 rordev dbus-daemon[1090]: [session uid=126 pid=1090] Activating via systemd: service name='org.gtk.vfs.UDisks2VolumeMonitor' unit='gvfs-udisks2-volume-monitor.service' requested by ':1.3' (uid=126 pid=1079 comm="/usr/libexec/tracker-miner-fs " label="unconfined")
+Dec 07 17:39:08 rordev systemd[1061]: Starting Virtual filesystem service - disk device monitor...
+-- Subject: A start job for unit UNIT has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has begun execution.
+-- 
+-- The job identifier is 59.
+Dec 07 17:39:08 rordev /usr/lib/gdm3/gdm-wayland-session[1122]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mdbus-daemon[1122]: [session uid=126 pid=1122] Activating service name='org.freedesktop.systemd1' requested by ':1.1' (uid=126 pid=1123 comm="/usr/libexec/gnome-session-binary --systemd --auto" label="unconfined")[0m
+Dec 07 17:39:08 rordev /usr/lib/gdm3/gdm-wayland-session[1122]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mdbus-daemon[1122]: [session uid=126 pid=1122] Activated service 'org.freedesktop.systemd1' failed: Process org.freedesktop.systemd1 exited with status 1[0m
+Dec 07 17:39:08 rordev /usr/lib/gdm3/gdm-wayland-session[1122]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mdbus-daemon[1122]: [session uid=126 pid=1122] Activating service name='org.freedesktop.systemd1' requested by ':1.2' (uid=126 pid=1123 comm="/usr/libexec/gnome-session-binary --systemd --auto" label="unconfined")[0m
+Dec 07 17:39:08 rordev /usr/lib/gdm3/gdm-wayland-session[1122]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mdbus-daemon[1122]: [session uid=126 pid=1122] Activated service 'org.freedesktop.systemd1' failed: Process org.freedesktop.systemd1 exited with status 1[0m
+Dec 07 17:39:08 rordev gnome-session[1123]: gnome-session-binary[1123]: WARNING: Falling back to non-systemd startup procedure due to error: GDBus.Error:org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1
+Dec 07 17:39:08 rordev gnome-session-binary[1123]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mWARNING: Falling back to non-systemd startup procedure due to error: GDBus.Error:org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1[0m
+Dec 07 17:39:08 rordev /usr/lib/gdm3/gdm-wayland-session[1122]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mdbus-daemon[1122]: [session uid=126 pid=1122] Activating service name='org.freedesktop.systemd1' requested by ':1.2' (uid=126 pid=1123 comm="/usr/libexec/gnome-session-binary --systemd --auto" label="unconfined")[0m
+Dec 07 17:39:08 rordev /usr/lib/gdm3/gdm-wayland-session[1122]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mdbus-daemon[1122]: [session uid=126 pid=1122] Activated service 'org.freedesktop.systemd1' failed: Process org.freedesktop.systemd1 exited with status 1[0m
+Dec 07 17:39:08 rordev /usr/lib/gdm3/gdm-wayland-session[1122]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mdbus-daemon[1122]: [session uid=126 pid=1122] Activating service name='org.freedesktop.systemd1' requested by ':1.2' (uid=126 pid=1123 comm="/usr/libexec/gnome-session-binary --systemd --auto" label="unconfined")[0m
+Dec 07 17:39:08 rordev /usr/lib/gdm3/gdm-wayland-session[1122]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mdbus-daemon[1122]: [session uid=126 pid=1122] Activated service 'org.freedesktop.systemd1' failed: Process org.freedesktop.systemd1 exited with status 1[0m
+Dec 07 17:39:08 rordev /usr/lib/gdm3/gdm-wayland-session[1122]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mdbus-daemon[1122]: [session uid=126 pid=1122] Activating service name='org.freedesktop.systemd1' requested by ':1.2' (uid=126 pid=1123 comm="/usr/libexec/gnome-session-binary --systemd --auto" label="unconfined")[0m
+Dec 07 17:39:08 rordev dbus-daemon[1090]: [session uid=126 pid=1090] Successfully activated service 'org.gtk.vfs.UDisks2VolumeMonitor'
+Dec 07 17:39:08 rordev systemd[1061]: Started Virtual filesystem service - disk device monitor.
+-- Subject: A start job for unit UNIT has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has finished successfully.
+-- 
+-- The job identifier is 59.
+Dec 07 17:39:08 rordev /usr/lib/gdm3/gdm-wayland-session[1122]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mdbus-daemon[1122]: [session uid=126 pid=1122] Activated service 'org.freedesktop.systemd1' failed: Process org.freedesktop.systemd1 exited with status 1[0m
+Dec 07 17:39:08 rordev /usr/lib/gdm3/gdm-wayland-session[1122]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mdbus-daemon[1122]: [session uid=126 pid=1122] Activating service name='org.freedesktop.systemd1' requested by ':1.2' (uid=126 pid=1123 comm="/usr/libexec/gnome-session-binary --systemd --auto" label="unconfined")[0m
+Dec 07 17:39:08 rordev /usr/lib/gdm3/gdm-wayland-session[1122]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mdbus-daemon[1122]: [session uid=126 pid=1122] Activated service 'org.freedesktop.systemd1' failed: Process org.freedesktop.systemd1 exited with status 1[0m
+Dec 07 17:39:08 rordev dbus-daemon[1090]: [session uid=126 pid=1090] Activating via systemd: service name='org.gtk.vfs.MTPVolumeMonitor' unit='gvfs-mtp-volume-monitor.service' requested by ':1.3' (uid=126 pid=1079 comm="/usr/libexec/tracker-miner-fs " label="unconfined")
+Dec 07 17:39:08 rordev systemd[1061]: Starting Virtual filesystem service - Media Transfer Protocol monitor...
+-- Subject: A start job for unit UNIT has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has begun execution.
+-- 
+-- The job identifier is 75.
+Dec 07 17:39:08 rordev dbus-daemon[1090]: [session uid=126 pid=1090] Successfully activated service 'org.gtk.vfs.MTPVolumeMonitor'
+Dec 07 17:39:08 rordev systemd[1061]: Started Virtual filesystem service - Media Transfer Protocol monitor.
+-- Subject: A start job for unit UNIT has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has finished successfully.
+-- 
+-- The job identifier is 75.
+Dec 07 17:39:08 rordev dbus-daemon[1090]: [session uid=126 pid=1090] Activating via systemd: service name='org.gtk.vfs.GoaVolumeMonitor' unit='gvfs-goa-volume-monitor.service' requested by ':1.3' (uid=126 pid=1079 comm="/usr/libexec/tracker-miner-fs " label="unconfined")
+Dec 07 17:39:08 rordev systemd[1061]: Starting Virtual filesystem service - GNOME Online Accounts monitor...
+-- Subject: A start job for unit UNIT has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has begun execution.
+-- 
+-- The job identifier is 91.
+Dec 07 17:39:08 rordev /usr/lib/gdm3/gdm-wayland-session[1122]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mdbus-daemon[1122]: [session uid=126 pid=1122] Activating service name='org.freedesktop.systemd1' requested by ':1.2' (uid=126 pid=1123 comm="/usr/libexec/gnome-session-binary --systemd --auto" label="unconfined")[0m
+Dec 07 17:39:08 rordev /usr/lib/gdm3/gdm-wayland-session[1122]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mdbus-daemon[1122]: [session uid=126 pid=1122] Activated service 'org.freedesktop.systemd1' failed: Process org.freedesktop.systemd1 exited with status 1[0m
+Dec 07 17:39:08 rordev dbus-daemon[1090]: [session uid=126 pid=1090] Activating service name='org.gnome.OnlineAccounts' requested by ':1.9' (uid=126 pid=1187 comm="/usr/libexec/gvfs-goa-volume-monitor " label="unconfined")
+Dec 07 17:39:08 rordev rtkit-daemon[1096]: [0;38;5;245m[0;1;31m[0;38;5;245mSupervising 1 threads of 1 processes of 1 users.[0m
+Dec 07 17:39:08 rordev rtkit-daemon[1096]: Successfully made thread 1196 of process 1077 owned by '126' RT at priority 5.
+Dec 07 17:39:08 rordev rtkit-daemon[1096]: [0;38;5;245m[0;1;31m[0;38;5;245mSupervising 2 threads of 1 processes of 1 users.[0m
+Dec 07 17:39:08 rordev rtkit-daemon[1096]: [0;38;5;245m[0;1;31m[0;38;5;245mSupervising 2 threads of 1 processes of 1 users.[0m
+Dec 07 17:39:08 rordev rtkit-daemon[1096]: Successfully made thread 1197 of process 1077 owned by '126' RT at priority 5.
+Dec 07 17:39:08 rordev rtkit-daemon[1096]: [0;38;5;245m[0;1;31m[0;38;5;245mSupervising 3 threads of 1 processes of 1 users.[0m
+Dec 07 17:39:08 rordev systemd[1061]: Started Sound Service.
+-- Subject: A start job for unit UNIT has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has finished successfully.
+-- 
+-- The job identifier is 23.
+Dec 07 17:39:08 rordev goa-daemon[1194]: [0;1;39m[0;1;31m[0;1;39mgoa-daemon version 3.36.1 starting[0m
+Dec 07 17:39:08 rordev dbus-daemon[1090]: [session uid=126 pid=1090] Activating service name='org.gnome.Identity' requested by ':1.10' (uid=126 pid=1194 comm="/usr/libexec/goa-daemon " label="unconfined")
+Dec 07 17:39:08 rordev dbus-daemon[1090]: [session uid=126 pid=1090] Successfully activated service 'org.gnome.OnlineAccounts'
+Dec 07 17:39:08 rordev dbus-daemon[1090]: [session uid=126 pid=1090] Successfully activated service 'org.gtk.vfs.GoaVolumeMonitor'
+Dec 07 17:39:08 rordev dbus-daemon[1090]: [session uid=126 pid=1090] Successfully activated service 'org.gnome.Identity'
+Dec 07 17:39:08 rordev systemd[1061]: Started Virtual filesystem service - GNOME Online Accounts monitor.
+-- Subject: A start job for unit UNIT has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has finished successfully.
+-- 
+-- The job identifier is 91.
+Dec 07 17:39:08 rordev dbus-daemon[1090]: [session uid=126 pid=1090] Activating via systemd: service name='org.gtk.vfs.AfcVolumeMonitor' unit='gvfs-afc-volume-monitor.service' requested by ':1.3' (uid=126 pid=1079 comm="/usr/libexec/tracker-miner-fs " label="unconfined")
+Dec 07 17:39:08 rordev systemd[1061]: Starting Virtual filesystem service - Apple File Conduit monitor...
+-- Subject: A start job for unit UNIT has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has begun execution.
+-- 
+-- The job identifier is 107.
+Dec 07 17:39:08 rordev systemd[1]: systemd-rfkill.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit systemd-rfkill.service has successfully entered the 'dead' state.
+Dec 07 17:39:08 rordev dbus-daemon[1090]: [session uid=126 pid=1090] Successfully activated service 'org.gtk.vfs.AfcVolumeMonitor'
+Dec 07 17:39:08 rordev systemd[1061]: Started Virtual filesystem service - Apple File Conduit monitor.
+-- Subject: A start job for unit UNIT has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has finished successfully.
+-- 
+-- The job identifier is 107.
+Dec 07 17:39:08 rordev dbus-daemon[1090]: [session uid=126 pid=1090] Activating via systemd: service name='org.gtk.vfs.GPhoto2VolumeMonitor' unit='gvfs-gphoto2-volume-monitor.service' requested by ':1.3' (uid=126 pid=1079 comm="/usr/libexec/tracker-miner-fs " label="unconfined")
+Dec 07 17:39:08 rordev systemd[1061]: Starting Virtual filesystem service - digital camera monitor...
+-- Subject: A start job for unit UNIT has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has begun execution.
+-- 
+-- The job identifier is 123.
+Dec 07 17:39:09 rordev dbus-daemon[1090]: [session uid=126 pid=1090] Successfully activated service 'org.gtk.vfs.GPhoto2VolumeMonitor'
+Dec 07 17:39:09 rordev systemd[1061]: Started Virtual filesystem service - digital camera monitor.
+-- Subject: A start job for unit UNIT has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has finished successfully.
+-- 
+-- The job identifier is 123.
+Dec 07 17:39:09 rordev dbus-daemon[793]: [system] Activating via systemd: service name='org.freedesktop.UPower' unit='upower.service' requested by ':1.41' (uid=126 pid=1079 comm="/usr/libexec/tracker-miner-fs " label="unconfined")
+Dec 07 17:39:09 rordev systemd[1]: Starting Daemon for power management...
+-- Subject: A start job for unit upower.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit upower.service has begun execution.
+-- 
+-- The job identifier is 1352.
+Dec 07 17:39:09 rordev upowerd[1230]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mdid not recognise USB path /sys/devices/platform/USBC000:00/power_supply/ucsi-source-psy-USBC000:001, please report[0m
+Dec 07 17:39:09 rordev dbus-daemon[793]: [system] Successfully activated service 'org.freedesktop.UPower'
+Dec 07 17:39:09 rordev systemd[1]: Started Daemon for power management.
+-- Subject: A start job for unit upower.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit upower.service has finished successfully.
+-- 
+-- The job identifier is 1352.
+Dec 07 17:39:09 rordev systemd[1061]: Started Tracker metadata extractor.
+-- Subject: A start job for unit UNIT has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has finished successfully.
+-- 
+-- The job identifier is 21.
+Dec 07 17:39:09 rordev dbus-daemon[1090]: [session uid=126 pid=1090] Activating via systemd: service name='org.freedesktop.Tracker1' unit='tracker-store.service' requested by ':1.3' (uid=126 pid=1079 comm="/usr/libexec/tracker-miner-fs " label="unconfined")
+Dec 07 17:39:09 rordev systemd[1061]: Starting Tracker metadata database store and lookup manager...
+-- Subject: A start job for unit UNIT has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has begun execution.
+-- 
+-- The job identifier is 139.
+Dec 07 17:39:09 rordev systemd[1061]: Started Tracker file system data miner.
+-- Subject: A start job for unit UNIT has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has finished successfully.
+-- 
+-- The job identifier is 24.
+Dec 07 17:39:09 rordev systemd[1061]: Reached target Main User Target.
+-- Subject: A start job for unit UNIT has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has finished successfully.
+-- 
+-- The job identifier is 5.
+Dec 07 17:39:09 rordev dbus-daemon[1090]: [session uid=126 pid=1090] Successfully activated service 'org.freedesktop.Tracker1'
+Dec 07 17:39:09 rordev systemd[1061]: Started Tracker metadata database store and lookup manager.
+-- Subject: A start job for unit UNIT has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit UNIT has finished successfully.
+-- 
+-- The job identifier is 139.
+Dec 07 17:39:09 rordev systemd[1061]: Startup finished in 2.037s.
+-- Subject: User manager start-up is now complete
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The user manager instance for user 126 has been started. All services queued
+-- for starting have been started. Note that other services might still be starting
+-- up or be started at any later time.
+-- 
+-- Startup of the manager took 2037805 microseconds.
+Dec 07 17:39:09 rordev ModemManager[875]: <info>  [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:1c.6/0000:04:00.0': not supported by any plugin
+Dec 07 17:39:09 rordev ModemManager[875]: <info>  [base-manager] couldn't check support for device '/sys/devices/pci0000:00/0000:00:1f.6': not supported by any plugin
+Dec 07 17:39:09 rordev systemd[1]: Started MySQL Community Server.
+-- Subject: A start job for unit mysql.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit mysql.service has finished successfully.
+-- 
+-- The job identifier is 170.
+Dec 07 17:39:10 rordev /usr/lib/gdm3/gdm-wayland-session[1122]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mdbus-daemon[1122]: [session uid=126 pid=1122] Activating service name='org.freedesktop.systemd1' requested by ':1.2' (uid=126 pid=1123 comm="/usr/libexec/gnome-session-binary --systemd --auto" label="unconfined")[0m
+Dec 07 17:39:10 rordev /usr/lib/gdm3/gdm-wayland-session[1122]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mdbus-daemon[1122]: [session uid=126 pid=1122] Activated service 'org.freedesktop.systemd1' failed: Process org.freedesktop.systemd1 exited with status 1[0m
+Dec 07 17:39:10 rordev /usr/lib/gdm3/gdm-wayland-session[1122]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mdbus-daemon[1122]: [session uid=126 pid=1122] Activating service name='org.freedesktop.systemd1' requested by ':1.2' (uid=126 pid=1123 comm="/usr/libexec/gnome-session-binary --systemd --auto" label="unconfined")[0m
+Dec 07 17:39:10 rordev /usr/lib/gdm3/gdm-wayland-session[1122]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mdbus-daemon[1122]: [session uid=126 pid=1122] Activated service 'org.freedesktop.systemd1' failed: Process org.freedesktop.systemd1 exited with status 1[0m
+Dec 07 17:39:10 rordev /usr/lib/gdm3/gdm-wayland-session[1122]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mdbus-daemon[1122]: [session uid=126 pid=1122] Activating service name='org.freedesktop.systemd1' requested by ':1.2' (uid=126 pid=1123 comm="/usr/libexec/gnome-session-binary --systemd --auto" label="unconfined")[0m
+Dec 07 17:39:10 rordev /usr/lib/gdm3/gdm-wayland-session[1122]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mdbus-daemon[1122]: [session uid=126 pid=1122] Activated service 'org.freedesktop.systemd1' failed: Process org.freedesktop.systemd1 exited with status 1[0m
+Dec 07 17:39:10 rordev /usr/lib/gdm3/gdm-wayland-session[1122]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mdbus-daemon[1122]: [session uid=126 pid=1122] Activating service name='org.freedesktop.systemd1' requested by ':1.2' (uid=126 pid=1123 comm="/usr/libexec/gnome-session-binary --systemd --auto" label="unconfined")[0m
+Dec 07 17:39:10 rordev /usr/lib/gdm3/gdm-wayland-session[1122]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mdbus-daemon[1122]: [session uid=126 pid=1122] Activated service 'org.freedesktop.systemd1' failed: Process org.freedesktop.systemd1 exited with status 1[0m
+Dec 07 17:39:10 rordev /usr/lib/gdm3/gdm-wayland-session[1122]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mdbus-daemon[1122]: [session uid=126 pid=1122] Activating service name='org.a11y.Bus' requested by ':1.4' (uid=126 pid=1198 comm="/usr/bin/gnome-shell " label="unconfined")[0m
+Dec 07 17:39:10 rordev /usr/lib/gdm3/gdm-wayland-session[1122]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mdbus-daemon[1122]: [session uid=126 pid=1122] Successfully activated service 'org.a11y.Bus'[0m
+Dec 07 17:39:11 rordev gnome-shell[1198]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mSome code accessed the property 'CredentialManager' on the module 'credentialManager'. That property was defined with 'let' or 'const' inside the module. This was previously supported, but is not correct according to the ES6 standard. Any symbols to be exported from a module must be defined with 'var'. The property access will work as previously for the time being, but please fix your code anyway.[0m
+Dec 07 17:39:11 rordev set-cpufreq[807]: Setting powersave scheduler for all CPUs
+Dec 07 17:39:11 rordev systemd[1]: ondemand.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit ondemand.service has successfully entered the 'dead' state.
+Dec 07 17:39:11 rordev wpa_supplicant[831]: [0;1;39m[0;1;31m[0;1;39mwlp4s0: CTRL-EVENT-REGDOM-CHANGE init=DRIVER type=COUNTRY alpha2=IN[0m
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.3078] policy: auto-activating connection 'Backbencher_5G' (1d51fc96-1ab8-4a33-9535-499c53769773)
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.3087] device (wlp4s0): Activation: starting connection 'Backbencher_5G' (1d51fc96-1ab8-4a33-9535-499c53769773)
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.3088] device (wlp4s0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'managed')
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.3093] manager: NetworkManager state is now CONNECTING
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.3098] device (wlp4s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.3113] device (wlp4s0): Activation: (wifi) access point 'Backbencher_5G' has security, but secrets are required.
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.3116] device (wlp4s0): state change: config -> need-auth (reason 'none', sys-iface-state: 'managed')
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.3123] sup-iface[0x559f76187920,wlp4s0]: wps: type pbc start...
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.3169] device (wlp4s0): state change: need-auth -> prepare (reason 'none', sys-iface-state: 'managed')
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.3180] device (wlp4s0): state change: prepare -> config (reason 'none', sys-iface-state: 'managed')
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.3191] device (wlp4s0): Activation: (wifi) connection 'Backbencher_5G' has security, and secrets exist.  No new secrets needed.
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.3194] Config: added 'ssid' value 'Backbencher_5G'
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.3196] Config: added 'scan_ssid' value '1'
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.3198] Config: added 'bgscan' value 'simple:30:-70:86400'
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.3200] Config: added 'key_mgmt' value 'WPA-PSK WPA-PSK-SHA256 FT-PSK'
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.3201] Config: added 'auth_alg' value 'OPEN'
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.3203] Config: added 'psk' value '<hidden>'
+Dec 07 17:39:11 rordev wpa_supplicant[831]: [0;1;39m[0;1;31m[0;1;39mwlp4s0: SME: Trying to authenticate with b4:a7:c6:89:9e:e2 (SSID='Backbencher_5G' freq=5785 MHz)[0m
+Dec 07 17:39:11 rordev kernel: wlp4s0: authenticate with b4:a7:c6:89:9e:e2
+Dec 07 17:39:11 rordev kernel: wlp4s0: send auth to b4:a7:c6:89:9e:e2 (try 1/3)
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.3476] device (wlp4s0): supplicant interface state: ready -> authenticating
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.3477] device (p2p-dev-wlp4s0): supplicant management interface state: ready -> authenticating
+Dec 07 17:39:11 rordev wpa_supplicant[831]: [0;1;39m[0;1;31m[0;1;39mwlp4s0: Trying to associate with b4:a7:c6:89:9e:e2 (SSID='Backbencher_5G' freq=5785 MHz)[0m
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.3547] device (wlp4s0): supplicant interface state: authenticating -> associating
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.3547] device (p2p-dev-wlp4s0): supplicant management interface state: authenticating -> associating
+Dec 07 17:39:11 rordev kernel: wlp4s0: authenticated
+Dec 07 17:39:11 rordev kernel: wlp4s0: associate with b4:a7:c6:89:9e:e2 (try 1/3)
+Dec 07 17:39:11 rordev kernel: wlp4s0: RX AssocResp from b4:a7:c6:89:9e:e2 (capab=0x111 status=0 aid=25)
+Dec 07 17:39:11 rordev wpa_supplicant[831]: [0;1;39m[0;1;31m[0;1;39mwlp4s0: Associated with b4:a7:c6:89:9e:e2[0m
+Dec 07 17:39:11 rordev wpa_supplicant[831]: [0;1;39m[0;1;31m[0;1;39mwlp4s0: CTRL-EVENT-SUBNET-STATUS-UPDATE status=0[0m
+Dec 07 17:39:11 rordev kernel: wlp4s0: associated
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.3672] device (wlp4s0): supplicant interface state: associating -> associated
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.3672] device (p2p-dev-wlp4s0): supplicant management interface state: associating -> associated
+Dec 07 17:39:11 rordev kernel: [0;38;5;245m[0;1;31m[0;38;5;245mwlp4s0: Limiting TX power to 20 (20 - 0) dBm as advertised by b4:a7:c6:89:9e:e2[0m
+Dec 07 17:39:11 rordev gnome-shell[1198]: [0;1;39m[0;1;31m[0;1;39mUnset XDG_SESSION_ID, getCurrentSessionProxy() called outside a user session. Asking logind directly.[0m
+Dec 07 17:39:11 rordev gnome-shell[1198]: [0;1;39m[0;1;31m[0;1;39mWill monitor session c1[0m
+Dec 07 17:39:11 rordev systemd[1]: dmesg.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit dmesg.service has successfully entered the 'dead' state.
+Dec 07 17:39:11 rordev dbus-daemon[793]: [system] Activating via systemd: service name='org.freedesktop.locale1' unit='dbus-org.freedesktop.locale1.service' requested by ':1.43' (uid=126 pid=1198 comm="/usr/bin/gnome-shell " label="unconfined")
+Dec 07 17:39:11 rordev systemd[1]: Starting Locale Service...
+-- Subject: A start job for unit systemd-localed.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit systemd-localed.service has begun execution.
+-- 
+-- The job identifier is 1426.
+Dec 07 17:39:11 rordev /usr/lib/gdm3/gdm-wayland-session[1122]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mdbus-daemon[1122]: [session uid=126 pid=1122] Activating service name='org.freedesktop.portal.IBus' requested by ':1.6' (uid=126 pid=1339 comm="ibus-daemon --panel disable " label="unconfined")[0m
+Dec 07 17:39:11 rordev /usr/lib/gdm3/gdm-wayland-session[1122]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mdbus-daemon[1122]: [session uid=126 pid=1122] Successfully activated service 'org.freedesktop.portal.IBus'[0m
+Dec 07 17:39:11 rordev dbus-daemon[793]: [system] Successfully activated service 'org.freedesktop.locale1'
+Dec 07 17:39:11 rordev systemd[1]: Started Locale Service.
+-- Subject: A start job for unit systemd-localed.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit systemd-localed.service has finished successfully.
+-- 
+-- The job identifier is 1426.
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.7758] device (wlp4s0): supplicant interface state: associated -> 4-way handshake
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.7758] device (p2p-dev-wlp4s0): supplicant management interface state: associated -> 4-way handshake
+Dec 07 17:39:11 rordev wpa_supplicant[831]: [0;1;39m[0;1;31m[0;1;39mwlp4s0: WPA: Key negotiation completed with b4:a7:c6:89:9e:e2 [PTK=CCMP GTK=CCMP][0m
+Dec 07 17:39:11 rordev wpa_supplicant[831]: [0;1;39m[0;1;31m[0;1;39mwlp4s0: CTRL-EVENT-CONNECTED - Connection to b4:a7:c6:89:9e:e2 completed [id=0 id_str=][0m
+Dec 07 17:39:11 rordev kernel: IPv6: ADDRCONF(NETDEV_CHANGE): wlp4s0: link becomes ready
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.8516] device (wlp4s0): supplicant interface state: 4-way handshake -> completed
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.8517] device (wlp4s0): Activation: (wifi) Stage 2 of 5 (Device Configure) successful. Connected to wireless network "Backbencher_5G"
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.8517] device (p2p-dev-wlp4s0): supplicant management interface state: 4-way handshake -> completed
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.8520] device (wlp4s0): state change: config -> ip-config (reason 'none', sys-iface-state: 'managed')
+Dec 07 17:39:11 rordev wpa_supplicant[831]: [0;1;39m[0;1;31m[0;1;39mwlp4s0: CTRL-EVENT-SIGNAL-CHANGE above=1 signal=-50 noise=9999 txrate=6000[0m
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.8532] dhcp4 (wlp4s0): activation: beginning transaction (timeout in 45 seconds)
+Dec 07 17:39:11 rordev avahi-daemon[786]: Joining mDNS multicast group on interface wlp4s0.IPv6 with address fe80::5f9d:19f1:f3e9:8d32.
+Dec 07 17:39:11 rordev avahi-daemon[786]: New relevant interface wlp4s0.IPv6 for mDNS.
+Dec 07 17:39:11 rordev avahi-daemon[786]: Registering new address record for fe80::5f9d:19f1:f3e9:8d32 on wlp4s0.*.
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.8819] dhcp4 (wlp4s0): option dhcp_lease_time      => '82800'
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.8819] dhcp4 (wlp4s0): option domain_name_servers  => '192.168.29.1'
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.8819] dhcp4 (wlp4s0): option expiry               => '1733656151'
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.8819] dhcp4 (wlp4s0): option host_name            => 'rordev'
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.8819] dhcp4 (wlp4s0): option ip_address           => '192.168.29.5'
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.8819] dhcp4 (wlp4s0): option next_server          => '192.168.29.1'
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.8820] dhcp4 (wlp4s0): option requested_broadcast_address => '1'
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.8820] dhcp4 (wlp4s0): option requested_domain_name => '1'
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.8820] dhcp4 (wlp4s0): option requested_domain_name_servers => '1'
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.8820] dhcp4 (wlp4s0): option requested_domain_search => '1'
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.8820] dhcp4 (wlp4s0): option requested_host_name  => '1'
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.8820] dhcp4 (wlp4s0): option requested_interface_mtu => '1'
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.8820] dhcp4 (wlp4s0): option requested_ms_classless_static_routes => '1'
+Dec 07 17:39:11 rordev avahi-daemon[786]: Joining mDNS multicast group on interface wlp4s0.IPv4 with address 192.168.29.5.
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.8820] dhcp4 (wlp4s0): option requested_nis_domain => '1'
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.8821] dhcp4 (wlp4s0): option requested_nis_servers => '1'
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.8821] dhcp4 (wlp4s0): option requested_ntp_servers => '1'
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.8821] dhcp4 (wlp4s0): option requested_rfc3442_classless_static_routes => '1'
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.8821] dhcp4 (wlp4s0): option requested_root_path  => '1'
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.8821] dhcp4 (wlp4s0): option requested_routers    => '1'
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.8821] dhcp4 (wlp4s0): option requested_static_routes => '1'
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.8821] dhcp4 (wlp4s0): option requested_subnet_mask => '1'
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.8821] dhcp4 (wlp4s0): option requested_time_offset => '1'
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.8821] dhcp4 (wlp4s0): option requested_wpad       => '1'
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.8822] dhcp4 (wlp4s0): option routers              => '192.168.29.1'
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.8822] dhcp4 (wlp4s0): option subnet_mask          => '255.255.255.0'
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.8822] dhcp4 (wlp4s0): state changed unknown -> bound
+Dec 07 17:39:11 rordev avahi-daemon[786]: New relevant interface wlp4s0.IPv4 for mDNS.
+Dec 07 17:39:11 rordev avahi-daemon[786]: Registering new address record for 192.168.29.5 on wlp4s0.IPv4.
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.8847] device (wlp4s0): state change: ip-config -> ip-check (reason 'none', sys-iface-state: 'managed')
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.8984] device (wlp4s0): state change: ip-check -> secondaries (reason 'none', sys-iface-state: 'managed')
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.8989] device (wlp4s0): state change: secondaries -> activated (reason 'none', sys-iface-state: 'managed')
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.8998] manager: NetworkManager state is now CONNECTED_LOCAL
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.9034] manager: NetworkManager state is now CONNECTED_SITE
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.9038] policy: set 'Backbencher_5G' (wlp4s0) as default for IPv4 routing and DNS
+Dec 07 17:39:11 rordev NetworkManager[795]: <info>  [1733573351.9059] device (wlp4s0): Activation: successful, device activated.
+Dec 07 17:39:11 rordev systemd-resolved[725]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mUsing degraded feature set (UDP) for DNS server 192.168.29.1.[0m
+Dec 07 17:39:12 rordev NetworkManager[795]: <info>  [1733573352.2320] manager: NetworkManager state is now CONNECTED_GLOBAL
+Dec 07 17:39:12 rordev /usr/lib/gdm3/gdm-wayland-session[1122]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mdbus-daemon[1122]: [session uid=126 pid=1122] Activating service name='org.freedesktop.impl.portal.PermissionStore' requested by ':1.3' (uid=126 pid=1198 comm="/usr/bin/gnome-shell " label="unconfined")[0m
+Dec 07 17:39:12 rordev /usr/lib/gdm3/gdm-wayland-session[1122]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mdbus-daemon[1122]: [session uid=126 pid=1122] Successfully activated service 'org.freedesktop.impl.portal.PermissionStore'[0m
+Dec 07 17:39:13 rordev dbus-daemon[793]: [system] Activating via systemd: service name='org.freedesktop.GeoClue2' unit='geoclue.service' requested by ':1.43' (uid=126 pid=1198 comm="/usr/bin/gnome-shell " label="unconfined")
+Dec 07 17:39:13 rordev systemd[1]: Starting Location Lookup Service...
+-- Subject: A start job for unit geoclue.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit geoclue.service has begun execution.
+-- 
+-- The job identifier is 1500.
+Dec 07 17:39:13 rordev polkitd(authority=local)[809]: [0;1;39m[0;1;31m[0;1;39mRegistered Authentication Agent for unix-session:c1 (system bus name :1.43 [/usr/bin/gnome-shell], object path /org/freedesktop/PolicyKit1/AuthenticationAgent, locale en_IN)[0m
+Dec 07 17:39:13 rordev dbus-daemon[793]: [system] Activating via systemd: service name='org.freedesktop.PackageKit' unit='packagekit.service' requested by ':1.43' (uid=126 pid=1198 comm="/usr/bin/gnome-shell " label="unconfined")
+Dec 07 17:39:13 rordev systemd[1]: Starting PackageKit Daemon...
+-- Subject: A start job for unit packagekit.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit packagekit.service has begun execution.
+-- 
+-- The job identifier is 1574.
+Dec 07 17:39:13 rordev PackageKit[1500]: [0;38;5;245m[0;1;31m[0;38;5;245mdaemon start[0m
+Dec 07 17:39:13 rordev /usr/lib/gdm3/gdm-wayland-session[1122]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mdbus-daemon[1122]: [session uid=126 pid=1122] Activating service name='org.gnome.Shell.Notifications' requested by ':1.3' (uid=126 pid=1198 comm="/usr/bin/gnome-shell " label="unconfined")[0m
+Dec 07 17:39:13 rordev /usr/lib/gdm3/gdm-wayland-session[1312]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mdbus-daemon[1312]: Activating service name='org.a11y.atspi.Registry' requested by ':1.0' (uid=126 pid=1198 comm="/usr/bin/gnome-shell " label="unconfined")[0m
+Dec 07 17:39:13 rordev dbus-daemon[793]: [system] Successfully activated service 'org.freedesktop.GeoClue2'
+Dec 07 17:39:13 rordev systemd[1]: Started Location Lookup Service.
+-- Subject: A start job for unit geoclue.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit geoclue.service has finished successfully.
+-- 
+-- The job identifier is 1500.
+Dec 07 17:39:13 rordev /usr/lib/gdm3/gdm-wayland-session[1122]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mdbus-daemon[1122]: [session uid=126 pid=1122] Activating service name='ca.desrt.dconf' requested by ':1.3' (uid=126 pid=1198 comm="/usr/bin/gnome-shell " label="unconfined")[0m
+Dec 07 17:39:13 rordev /usr/lib/gdm3/gdm-wayland-session[1510]: SpiRegistry daemon is running with well-known name - org.a11y.atspi.Registry
+Dec 07 17:39:13 rordev /usr/lib/gdm3/gdm-wayland-session[1312]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mdbus-daemon[1312]: Successfully activated service 'org.a11y.atspi.Registry'[0m
+Dec 07 17:39:13 rordev /usr/lib/gdm3/gdm-wayland-session[1122]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mdbus-daemon[1122]: [session uid=126 pid=1122] Successfully activated service 'ca.desrt.dconf'[0m
+Dec 07 17:39:13 rordev NetworkManager[795]: <info>  [1733573353.2991] manager: startup complete
+Dec 07 17:39:13 rordev systemd[1]: Finished Network Manager Wait Online.
+-- Subject: A start job for unit NetworkManager-wait-online.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit NetworkManager-wait-online.service has finished successfully.
+-- 
+-- The job identifier is 122.
+Dec 07 17:39:13 rordev systemd[1]: Reached target Network is Online.
+-- Subject: A start job for unit network-online.target has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit network-online.target has finished successfully.
+-- 
+-- The job identifier is 121.
+Dec 07 17:39:13 rordev systemd[1]: Starting Docker Application Container Engine...
+-- Subject: A start job for unit docker.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit docker.service has begun execution.
+-- 
+-- The job identifier is 144.
+Dec 07 17:39:13 rordev systemd[1]: Starting Tool to automatically collect and submit kernel crash signatures...
+-- Subject: A start job for unit kerneloops.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit kerneloops.service has begun execution.
+-- 
+-- The job identifier is 135.
+Dec 07 17:39:13 rordev systemd[1]: Condition check resulted in Ubuntu Pro Background Auto Attach being skipped.
+-- Subject: A start job for unit ubuntu-advantage.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit ubuntu-advantage.service has finished successfully.
+-- 
+-- The job identifier is 97.
+Dec 07 17:39:13 rordev systemd[1]: Starting Ubuntu FAN network setup...
+-- Subject: A start job for unit ubuntu-fan.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit ubuntu-fan.service has begun execution.
+-- 
+-- The job identifier is 149.
+Dec 07 17:39:13 rordev systemd[1]: Starting WireGuard via wg-quick(8) for wg0...
+-- Subject: A start job for unit wg-quick@wg0.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit wg-quick@wg0.service has begun execution.
+-- 
+-- The job identifier is 119.
+Dec 07 17:39:13 rordev systemd[1]: Started crash report submission daemon.
+-- Subject: A start job for unit whoopsie.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit whoopsie.service has finished successfully.
+-- 
+-- The job identifier is 184.
+Dec 07 17:39:13 rordev dbus-daemon[793]: [system] Successfully activated service 'org.freedesktop.PackageKit'
+Dec 07 17:39:13 rordev systemd[1]: Started PackageKit Daemon.
+-- Subject: A start job for unit packagekit.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit packagekit.service has finished successfully.
+-- 
+-- The job identifier is 1574.
+Dec 07 17:39:13 rordev systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mkerneloops.service: Found left-over process 1552 (kerneloops) in control group while starting unit. Ignoring.[0m
+Dec 07 17:39:13 rordev systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mThis usually indicates unclean termination of a previous run, or service implementation deficiencies.[0m
+Dec 07 17:39:13 rordev systemd[1]: Started Tool to automatically collect and submit kernel crash signatures.
+-- Subject: A start job for unit kerneloops.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit kerneloops.service has finished successfully.
+-- 
+-- The job identifier is 135.
+Dec 07 17:39:13 rordev wg-quick[1535]: [#] ip link add wg0 type wireguard
+Dec 07 17:39:13 rordev whoopsie[1536]: [17:39:13] Using lock path: /var/lock/whoopsie/lock
+Dec 07 17:39:13 rordev systemd[1]: Finished Ubuntu FAN network setup.
+-- Subject: A start job for unit ubuntu-fan.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit ubuntu-fan.service has finished successfully.
+-- 
+-- The job identifier is 149.
+Dec 07 17:39:13 rordev /usr/lib/gdm3/gdm-wayland-session[1122]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mdbus-daemon[1122]: [session uid=126 pid=1122] Successfully activated service 'org.gnome.Shell.Notifications'[0m
+Dec 07 17:39:13 rordev kernel: wireguard: WireGuard 1.0.0 loaded. See www.wireguard.com for information.
+Dec 07 17:39:13 rordev kernel: wireguard: Copyright (C) 2015-2019 Jason A. Donenfeld <Jason@zx2c4.com>. All Rights Reserved.
+Dec 07 17:39:13 rordev kernel: [0;38;5;245m[0;1;31m[0;38;5;245mrfkill: input handler disabled[0m
+Dec 07 17:39:13 rordev wg-quick[1535]: [#] wg setconf wg0 /dev/fd/63
+Dec 07 17:39:13 rordev NetworkManager[795]: <info>  [1733573353.5446] manager: (wg0): new WireGuard device (/org/freedesktop/NetworkManager/Devices/7)
+Dec 07 17:39:13 rordev systemd-udevd[409]: ethtool: autonegotiation is unset or enabled, the speed and duplex are not writable.
+Dec 07 17:39:13 rordev systemd-udevd[409]: Using default interface naming scheme 'v245'.
+Dec 07 17:39:13 rordev gnome-shell[1198]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mcr_parser_new_from_buf: assertion 'a_buf && a_len' failed[0m
+Dec 07 17:39:13 rordev gnome-shell[1198]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mcr_declaration_parse_list_from_buf: assertion 'parser' failed[0m
+Dec 07 17:39:13 rordev wg-quick[1535]: [#] ip -4 address add 10.20.1.110/32 dev wg0
+Dec 07 17:39:13 rordev dbus-daemon[793]: [system] Activating via systemd: service name='net.reactivated.Fprint' unit='fprintd.service' requested by ':1.43' (uid=126 pid=1198 comm="/usr/bin/gnome-shell " label="unconfined")
+Dec 07 17:39:13 rordev systemd[1]: Starting Fingerprint Authentication Daemon...
+-- Subject: A start job for unit fprintd.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit fprintd.service has begun execution.
+-- 
+-- The job identifier is 1648.
+Dec 07 17:39:13 rordev whoopsie[1536]: [17:39:13] The default IPv4 route is: /org/freedesktop/NetworkManager/ActiveConnection/1
+Dec 07 17:39:13 rordev wg-quick[1535]: [#] ip link set mtu 1420 up dev wg0
+Dec 07 17:39:13 rordev NetworkManager[795]: <info>  [1733573353.6637] device (wg0): state change: unmanaged -> unavailable (reason 'connection-assumed', sys-iface-state: 'external')
+Dec 07 17:39:13 rordev NetworkManager[795]: <info>  [1733573353.6699] device (wg0): state change: unavailable -> disconnected (reason 'connection-assumed', sys-iface-state: 'external')
+Dec 07 17:39:13 rordev NetworkManager[795]: <info>  [1733573353.6709] device (wg0): Activation: starting connection 'wg0' (441964a3-5288-415e-8830-c38bc5bfb4a1)
+Dec 07 17:39:13 rordev NetworkManager[795]: <info>  [1733573353.6720] device (wg0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'external')
+Dec 07 17:39:13 rordev NetworkManager[795]: <info>  [1733573353.6724] device (wg0): state change: prepare -> config (reason 'none', sys-iface-state: 'external')
+Dec 07 17:39:13 rordev NetworkManager[795]: <info>  [1733573353.6745] device (wg0): state change: config -> ip-config (reason 'none', sys-iface-state: 'external')
+Dec 07 17:39:13 rordev NetworkManager[795]: <info>  [1733573353.6749] device (wg0): state change: ip-config -> ip-check (reason 'none', sys-iface-state: 'external')
+Dec 07 17:39:13 rordev whoopsie[1536]: [17:39:13] Not a paid data plan: /org/freedesktop/NetworkManager/ActiveConnection/1
+Dec 07 17:39:13 rordev whoopsie[1536]: [17:39:13] Found usable connection: /org/freedesktop/NetworkManager/ActiveConnection/1
+Dec 07 17:39:13 rordev NetworkManager[795]: <info>  [1733573353.7031] device (wg0): state change: ip-check -> secondaries (reason 'none', sys-iface-state: 'external')
+Dec 07 17:39:13 rordev NetworkManager[795]: <info>  [1733573353.7036] device (wg0): state change: secondaries -> activated (reason 'none', sys-iface-state: 'external')
+Dec 07 17:39:13 rordev /usr/lib/gdm3/gdm-wayland-session[1122]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mdbus-daemon[1122]: [session uid=126 pid=1122] Activating service name='org.freedesktop.systemd1' requested by ':1.12' (uid=126 pid=1522 comm="/usr/libexec/gsd-sharing " label="unconfined")[0m
+Dec 07 17:39:13 rordev NetworkManager[795]: <info>  [1733573353.7082] device (wg0): Activation: successful, device activated.
+Dec 07 17:39:13 rordev wg-quick[1535]: [#] ip -4 route add 10.20.1.1/32 dev wg0
+Dec 07 17:39:13 rordev systemd[1]: Finished WireGuard via wg-quick(8) for wg0.
+-- Subject: A start job for unit wg-quick@wg0.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit wg-quick@wg0.service has finished successfully.
+-- 
+-- The job identifier is 119.
+Dec 07 17:39:13 rordev /usr/lib/gdm3/gdm-wayland-session[1122]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mdbus-daemon[1122]: [session uid=126 pid=1122] Activated service 'org.freedesktop.systemd1' failed: Process org.freedesktop.systemd1 exited with status 1[0m
+Dec 07 17:39:13 rordev gsd-sharing[1522]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mFailed to StopUnit service: GDBus.Error:org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1[0m
+Dec 07 17:39:13 rordev gsd-sharing[1522]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mFailed to StopUnit service: GDBus.Error:org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1[0m
+Dec 07 17:39:13 rordev gsd-sharing[1522]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mFailed to StopUnit service: GDBus.Error:org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1[0m
+Dec 07 17:39:13 rordev gsd-sharing[1522]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mFailed to StopUnit service: GDBus.Error:org.freedesktop.DBus.Error.Spawn.ChildExited: Process org.freedesktop.systemd1 exited with status 1[0m
+Dec 07 17:39:13 rordev dbus-daemon[793]: [system] Successfully activated service 'net.reactivated.Fprint'
+Dec 07 17:39:13 rordev systemd[1]: Started Fingerprint Authentication Daemon.
+-- Subject: A start job for unit fprintd.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit fprintd.service has finished successfully.
+-- 
+-- The job identifier is 1648.
+Dec 07 17:39:13 rordev gnome-shell[1198]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mGetting invalid resource scale property[0m
+Dec 07 17:39:13 rordev gnome-shell[1198]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mcr_parser_new_from_buf: assertion 'a_buf && a_len' failed[0m
+Dec 07 17:39:13 rordev gnome-shell[1198]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mcr_declaration_parse_list_from_buf: assertion 'parser' failed[0m
+Dec 07 17:39:13 rordev gnome-shell[1198]: [0;1;39m[0;1;31m[0;1;39mError looking up permission: GDBus.Error:org.freedesktop.portal.Error.NotFound: No entry for geolocation[0m
+Dec 07 17:39:14 rordev NetworkManager[795]: <info>  [1733573354.1678] dhcp6 (wlp4s0): activation: beginning transaction (timeout in 45 seconds)
+Dec 07 17:39:14 rordev avahi-daemon[786]: Leaving mDNS multicast group on interface wlp4s0.IPv6 with address fe80::5f9d:19f1:f3e9:8d32.
+Dec 07 17:39:14 rordev avahi-daemon[786]: Joining mDNS multicast group on interface wlp4s0.IPv6 with address 2405:201:300b:789b:d126:3f59:7e5f:1b0c.
+Dec 07 17:39:14 rordev avahi-daemon[786]: Registering new address record for 2405:201:300b:789b:d126:3f59:7e5f:1b0c on wlp4s0.*.
+Dec 07 17:39:14 rordev avahi-daemon[786]: Withdrawing address record for fe80::5f9d:19f1:f3e9:8d32 on wlp4s0.
+Dec 07 17:39:14 rordev NetworkManager[795]: <info>  [1733573354.1701] policy: set 'Backbencher_5G' (wlp4s0) as default for IPv6 routing and DNS
+Dec 07 17:39:14 rordev gnome-shell[1198]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mcr_parser_new_from_buf: assertion 'a_buf && a_len' failed[0m
+Dec 07 17:39:14 rordev gnome-shell[1198]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mcr_declaration_parse_list_from_buf: assertion 'parser' failed[0m
+Dec 07 17:39:14 rordev redis.server[907]: 907:C 07 Dec 2024 17:39:14.473 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+Dec 07 17:39:14 rordev redis.server[907]: 907:C 07 Dec 2024 17:39:14.473 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+Dec 07 17:39:14 rordev redis.server[907]: 907:C 07 Dec 2024 17:39:14.473 * Redis version=7.2.5, bits=64, commit=f60370ce, modified=0, pid=907, just started
+Dec 07 17:39:14 rordev redis.server[907]: 907:C 07 Dec 2024 17:39:14.473 # Warning: no config file specified, using the default config. In order to specify a config file use /snap/redis/1568/usr/bin/redis-server /path/to/redis.conf
+Dec 07 17:39:14 rordev audit[907]: [0;34m[0;34mAVC apparmor="DENIED" operation="open" profile="snap.redis.server" name="/sys/devices/system/clocksource/clocksource0/current_clocksource" pid=907 comm="redis-server" requested_mask="r" denied_mask="r" fsuid=0 ouid=0[0m
+Dec 07 17:39:14 rordev kernel: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mkauditd_printk_skb: 54 callbacks suppressed[0m
+Dec 07 17:39:14 rordev kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1733573354.467:66): apparmor="DENIED" operation="open" profile="snap.redis.server" name="/sys/devices/system/clocksource/clocksource0/current_clocksource" pid=907 comm="redis-server" requested_mask="r" denied_mask="r" fsuid=0 ouid=0[0m
+Dec 07 17:39:14 rordev gnome-shell[1198]: [0;1;39m[0;1;31m[0;1;39mNot starting gsd-xsettings; waiting for gnome-session to do so[0m
+Dec 07 17:39:14 rordev redis.server[907]: 907:M 07 Dec 2024 17:39:14.509 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+Dec 07 17:39:14 rordev redis.server[907]: 907:M 07 Dec 2024 17:39:14.509 * monotonic clock: POSIX clock_gettime
+Dec 07 17:39:14 rordev /usr/lib/gdm3/gdm-wayland-session[1122]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mdbus-daemon[1122]: [session uid=126 pid=1122] Activating service name='org.freedesktop.portal.IBus' requested by ':1.28' (uid=126 pid=1807 comm="ibus-daemon --panel disable -r --xim " label="unconfined")[0m
+Dec 07 17:39:14 rordev gnome-shell[1198]: [0;1;39m[0;1;31m[0;1;39mRegistering session with GDM[0m
+Dec 07 17:39:14 rordev redis.server[907]: 907:M 07 Dec 2024 17:39:14.556 * Running mode=standalone, port=6379.
+Dec 07 17:39:14 rordev redis.server[907]: 907:M 07 Dec 2024 17:39:14.556 # Warning: Could not create server TCP listening socket *:6379: bind: Address already in use
+Dec 07 17:39:14 rordev redis.server[907]: 907:M 07 Dec 2024 17:39:14.556 # Failed listening on port 6379 (tcp), aborting.
+Dec 07 17:39:14 rordev systemd[1]: Received SIGRTMIN+21 from PID 423 (plymouthd).
+Dec 07 17:39:14 rordev /usr/lib/gdm3/gdm-wayland-session[1122]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mdbus-daemon[1122]: [session uid=126 pid=1122] Successfully activated service 'org.freedesktop.portal.IBus'[0m
+Dec 07 17:39:14 rordev systemd[1]: plymouth-quit-wait.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit plymouth-quit-wait.service has successfully entered the 'dead' state.
+Dec 07 17:39:14 rordev systemd[1]: Finished Hold until boot process finishes up.
+-- Subject: A start job for unit plymouth-quit-wait.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit plymouth-quit-wait.service has finished successfully.
+-- 
+-- The job identifier is 171.
+Dec 07 17:39:14 rordev systemd[1]: plymouth-start.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit plymouth-start.service has successfully entered the 'dead' state.
+Dec 07 17:39:14 rordev systemd[1]: Starting Set console scheme...
+-- Subject: A start job for unit setvtrgb.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit setvtrgb.service has begun execution.
+-- 
+-- The job identifier is 57.
+Dec 07 17:39:14 rordev systemd[1]: [0;1;39m[0;1;31m[0;1;39msnap.redis.server.service: Main process exited, code=exited, status=1/FAILURE[0m
+-- Subject: Unit process exited
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- An ExecStart= process belonging to unit snap.redis.server.service has exited.
+-- 
+-- The process' exit code is 'exited' and its exit status is 1.
+Dec 07 17:39:14 rordev systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185msnap.redis.server.service: Failed with result 'exit-code'.[0m
+-- Subject: Unit failed
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit snap.redis.server.service has entered the 'failed' state with result 'exit-code'.
+Dec 07 17:39:14 rordev systemd[1]: Finished Set console scheme.
+-- Subject: A start job for unit setvtrgb.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit setvtrgb.service has finished successfully.
+-- 
+-- The job identifier is 57.
+Dec 07 17:39:14 rordev systemd[1]: Created slice system-getty.slice.
+-- Subject: A start job for unit system-getty.slice has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit system-getty.slice has finished successfully.
+-- 
+-- The job identifier is 109.
+Dec 07 17:39:14 rordev gsd-media-keys[1562]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mFailed to grab accelerator for keybinding settings:playback-repeat[0m
+Dec 07 17:39:14 rordev gsd-media-keys[1562]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mFailed to grab accelerator for keybinding settings:hibernate[0m
+Dec 07 17:39:14 rordev gsd-media-keys[1562]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mFailed to grab accelerator for keybinding settings:playback-random[0m
+Dec 07 17:39:14 rordev gsd-media-keys[1562]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mFailed to grab accelerator for keybinding settings:rfkill[0m
+Dec 07 17:39:14 rordev dockerd[1531]: time="2024-12-07T17:39:14.786139137+05:30" level=info msg="Starting up"
+Dec 07 17:39:14 rordev dockerd[1531]: time="2024-12-07T17:39:14.789774732+05:30" level=info msg="detected 127.0.0.53 nameserver, assuming systemd-resolved, so using resolv.conf: /run/systemd/resolve/resolv.conf"
+Dec 07 17:39:14 rordev systemd[1]: snap.redis.server.service: Scheduled restart job, restart counter is at 1.
+-- Subject: Automatic restarting of a unit has been scheduled
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- Automatic restarting of the unit snap.redis.server.service has been scheduled, as the result for
+-- the configured Restart= setting for the unit.
+Dec 07 17:39:14 rordev systemd[1]: Stopped Service for snap application redis.server.
+-- Subject: A stop job for unit snap.redis.server.service has finished
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A stop job for unit snap.redis.server.service has finished.
+-- 
+-- The job identifier is 1722 and the job result is done.
+Dec 07 17:39:14 rordev systemd[1]: Started Service for snap application redis.server.
+-- Subject: A start job for unit snap.redis.server.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit snap.redis.server.service has finished successfully.
+-- 
+-- The job identifier is 1722.
+Dec 07 17:39:14 rordev gnome-session-binary[1123]: [0;1;39m[0;1;31m[0;1;39mEntering running state[0m
+Dec 07 17:39:14 rordev audit[1843]: [0;34m[0;34mAVC apparmor="STATUS" operation="profile_load" profile="unconfined" name="docker-default" pid=1843 comm="apparmor_parser"[0m
+Dec 07 17:39:14 rordev kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1733573354.927:67): apparmor="STATUS" operation="profile_load" profile="unconfined" name="docker-default" pid=1843 comm="apparmor_parser"[0m
+Dec 07 17:39:14 rordev xbrlapi.desktop[1868]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mopenConnection: connect: No such file or directory[0m
+Dec 07 17:39:14 rordev xbrlapi.desktop[1868]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mcannot connect to braille devices daemon brltty at :0[0m
+Dec 07 17:39:14 rordev redis.server[1849]: 1849:C 07 Dec 2024 17:39:14.959 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+Dec 07 17:39:14 rordev audit[1849]: [0;34m[0;34mAVC apparmor="DENIED" operation="open" profile="snap.redis.server" name="/sys/devices/system/clocksource/clocksource0/current_clocksource" pid=1849 comm="redis-server" requested_mask="r" denied_mask="r" fsuid=0 ouid=0[0m
+Dec 07 17:39:14 rordev redis.server[1849]: 1849:C 07 Dec 2024 17:39:14.959 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+Dec 07 17:39:14 rordev redis.server[1849]: 1849:C 07 Dec 2024 17:39:14.959 * Redis version=7.2.5, bits=64, commit=f60370ce, modified=0, pid=1849, just started
+Dec 07 17:39:14 rordev redis.server[1849]: 1849:C 07 Dec 2024 17:39:14.959 # Warning: no config file specified, using the default config. In order to specify a config file use /snap/redis/1568/usr/bin/redis-server /path/to/redis.conf
+Dec 07 17:39:14 rordev kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1733573354.955:68): apparmor="DENIED" operation="open" profile="snap.redis.server" name="/sys/devices/system/clocksource/clocksource0/current_clocksource" pid=1849 comm="redis-server" requested_mask="r" denied_mask="r" fsuid=0 ouid=0[0m
+Dec 07 17:39:14 rordev redis.server[1849]: 1849:M 07 Dec 2024 17:39:14.962 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+Dec 07 17:39:14 rordev redis.server[1849]: 1849:M 07 Dec 2024 17:39:14.962 * monotonic clock: POSIX clock_gettime
+Dec 07 17:39:14 rordev redis.server[1849]: 1849:M 07 Dec 2024 17:39:14.963 * Running mode=standalone, port=6379.
+Dec 07 17:39:14 rordev redis.server[1849]: 1849:M 07 Dec 2024 17:39:14.963 # Warning: Could not create server TCP listening socket *:6379: bind: Address already in use
+Dec 07 17:39:14 rordev redis.server[1849]: 1849:M 07 Dec 2024 17:39:14.963 # Failed listening on port 6379 (tcp), aborting.
+Dec 07 17:39:14 rordev systemd[1]: [0;1;39m[0;1;31m[0;1;39msnap.redis.server.service: Main process exited, code=exited, status=1/FAILURE[0m
+-- Subject: Unit process exited
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- An ExecStart= process belonging to unit snap.redis.server.service has exited.
+-- 
+-- The process' exit code is 'exited' and its exit status is 1.
+Dec 07 17:39:14 rordev systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185msnap.redis.server.service: Failed with result 'exit-code'.[0m
+-- Subject: Unit failed
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit snap.redis.server.service has entered the 'failed' state with result 'exit-code'.
+Dec 07 17:39:15 rordev systemd[1]: var-lib-docker-overlay2-check\x2doverlayfs\x2dsupport3038245053-merged.mount: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit var-lib-docker-overlay2-check\x2doverlayfs\x2dsupport3038245053-merged.mount has successfully entered the 'dead' state.
+Dec 07 17:39:15 rordev systemd[1061]: var-lib-docker-overlay2-check\x2doverlayfs\x2dsupport3038245053-merged.mount: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit UNIT has successfully entered the 'dead' state.
+Dec 07 17:39:15 rordev systemd[1]: snap.redis.server.service: Scheduled restart job, restart counter is at 2.
+-- Subject: Automatic restarting of a unit has been scheduled
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- Automatic restarting of the unit snap.redis.server.service has been scheduled, as the result for
+-- the configured Restart= setting for the unit.
+Dec 07 17:39:15 rordev dockerd[1531]: time="2024-12-07T17:39:15.085492098+05:30" level=info msg="[graphdriver] using prior storage driver: overlay2"
+Dec 07 17:39:15 rordev systemd[1]: Stopped Service for snap application redis.server.
+-- Subject: A stop job for unit snap.redis.server.service has finished
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A stop job for unit snap.redis.server.service has finished.
+-- 
+-- The job identifier is 1799 and the job result is done.
+Dec 07 17:39:15 rordev systemd[1]: Started Service for snap application redis.server.
+-- Subject: A start job for unit snap.redis.server.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit snap.redis.server.service has finished successfully.
+-- 
+-- The job identifier is 1799.
+Dec 07 17:39:15 rordev dockerd[1531]: time="2024-12-07T17:39:15.099148893+05:30" level=info msg="Loading containers: start."
+Dec 07 17:39:15 rordev redis.server[1877]: 1877:C 07 Dec 2024 17:39:15.169 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+Dec 07 17:39:15 rordev audit[1877]: [0;34m[0;34mAVC apparmor="DENIED" operation="open" profile="snap.redis.server" name="/sys/devices/system/clocksource/clocksource0/current_clocksource" pid=1877 comm="redis-server" requested_mask="r" denied_mask="r" fsuid=0 ouid=0[0m
+Dec 07 17:39:15 rordev redis.server[1877]: 1877:C 07 Dec 2024 17:39:15.170 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+Dec 07 17:39:15 rordev redis.server[1877]: 1877:C 07 Dec 2024 17:39:15.170 * Redis version=7.2.5, bits=64, commit=f60370ce, modified=0, pid=1877, just started
+Dec 07 17:39:15 rordev redis.server[1877]: 1877:C 07 Dec 2024 17:39:15.170 # Warning: no config file specified, using the default config. In order to specify a config file use /snap/redis/1568/usr/bin/redis-server /path/to/redis.conf
+Dec 07 17:39:15 rordev kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1733573355.163:69): apparmor="DENIED" operation="open" profile="snap.redis.server" name="/sys/devices/system/clocksource/clocksource0/current_clocksource" pid=1877 comm="redis-server" requested_mask="r" denied_mask="r" fsuid=0 ouid=0[0m
+Dec 07 17:39:15 rordev redis.server[1877]: 1877:M 07 Dec 2024 17:39:15.171 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+Dec 07 17:39:15 rordev redis.server[1877]: 1877:M 07 Dec 2024 17:39:15.171 * monotonic clock: POSIX clock_gettime
+Dec 07 17:39:15 rordev redis.server[1877]: 1877:M 07 Dec 2024 17:39:15.172 * Running mode=standalone, port=6379.
+Dec 07 17:39:15 rordev redis.server[1877]: 1877:M 07 Dec 2024 17:39:15.173 # Warning: Could not create server TCP listening socket *:6379: bind: Address already in use
+Dec 07 17:39:15 rordev redis.server[1877]: 1877:M 07 Dec 2024 17:39:15.173 # Failed listening on port 6379 (tcp), aborting.
+Dec 07 17:39:15 rordev systemd[1]: [0;1;39m[0;1;31m[0;1;39msnap.redis.server.service: Main process exited, code=exited, status=1/FAILURE[0m
+-- Subject: Unit process exited
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- An ExecStart= process belonging to unit snap.redis.server.service has exited.
+-- 
+-- The process' exit code is 'exited' and its exit status is 1.
+Dec 07 17:39:15 rordev systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185msnap.redis.server.service: Failed with result 'exit-code'.[0m
+-- Subject: Unit failed
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit snap.redis.server.service has entered the 'failed' state with result 'exit-code'.
+Dec 07 17:39:15 rordev kernel: Initializing XFRM netlink socket
+Dec 07 17:39:15 rordev NetworkManager[795]: <info>  [1733573355.2167] manager: (docker0): new Bridge device (/org/freedesktop/NetworkManager/Devices/8)
+Dec 07 17:39:15 rordev systemd-udevd[409]: ethtool: autonegotiation is unset or enabled, the speed and duplex are not writable.
+Dec 07 17:39:15 rordev avahi-daemon[786]: Joining mDNS multicast group on interface docker0.IPv4 with address 172.17.0.1.
+Dec 07 17:39:15 rordev NetworkManager[795]: <info>  [1733573355.2697] device (docker0): state change: unmanaged -> unavailable (reason 'connection-assumed', sys-iface-state: 'external')
+Dec 07 17:39:15 rordev avahi-daemon[786]: New relevant interface docker0.IPv4 for mDNS.
+Dec 07 17:39:15 rordev avahi-daemon[786]: Registering new address record for 172.17.0.1 on docker0.IPv4.
+Dec 07 17:39:15 rordev NetworkManager[795]: <info>  [1733573355.2786] device (docker0): state change: unavailable -> disconnected (reason 'connection-assumed', sys-iface-state: 'external')
+Dec 07 17:39:15 rordev NetworkManager[795]: <info>  [1733573355.2806] device (docker0): Activation: starting connection 'docker0' (89802313-5ac3-4631-b52b-d7affa43706b)
+Dec 07 17:39:15 rordev NetworkManager[795]: <info>  [1733573355.2870] device (docker0): state change: disconnected -> prepare (reason 'none', sys-iface-state: 'external')
+Dec 07 17:39:15 rordev NetworkManager[795]: <info>  [1733573355.2885] device (docker0): state change: prepare -> config (reason 'none', sys-iface-state: 'external')
+Dec 07 17:39:15 rordev NetworkManager[795]: <info>  [1733573355.2920] device (docker0): state change: config -> ip-config (reason 'none', sys-iface-state: 'external')
+Dec 07 17:39:15 rordev NetworkManager[795]: <info>  [1733573355.2937] device (docker0): state change: ip-config -> ip-check (reason 'none', sys-iface-state: 'external')
+Dec 07 17:39:15 rordev NetworkManager[795]: <info>  [1733573355.2998] device (docker0): state change: ip-check -> secondaries (reason 'none', sys-iface-state: 'external')
+Dec 07 17:39:15 rordev NetworkManager[795]: <info>  [1733573355.3003] device (docker0): state change: secondaries -> activated (reason 'none', sys-iface-state: 'external')
+Dec 07 17:39:15 rordev NetworkManager[795]: <info>  [1733573355.3023] device (docker0): Activation: successful, device activated.
+Dec 07 17:39:15 rordev dockerd[1531]: time="2024-12-07T17:39:15.380686881+05:30" level=info msg="Default bridge (docker0) is assigned with an IP address 172.17.0.0/16. Daemon option --bip can be used to set a preferred IP address"
+Dec 07 17:39:15 rordev dockerd[1531]: time="2024-12-07T17:39:15.441992568+05:30" level=info msg="Loading containers: done."
+Dec 07 17:39:15 rordev systemd[1]: snap.redis.server.service: Scheduled restart job, restart counter is at 3.
+-- Subject: Automatic restarting of a unit has been scheduled
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- Automatic restarting of the unit snap.redis.server.service has been scheduled, as the result for
+-- the configured Restart= setting for the unit.
+Dec 07 17:39:15 rordev systemd[1]: Stopped Service for snap application redis.server.
+-- Subject: A stop job for unit snap.redis.server.service has finished
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A stop job for unit snap.redis.server.service has finished.
+-- 
+-- The job identifier is 1876 and the job result is done.
+Dec 07 17:39:15 rordev systemd[1]: Started Service for snap application redis.server.
+-- Subject: A start job for unit snap.redis.server.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit snap.redis.server.service has finished successfully.
+-- 
+-- The job identifier is 1876.
+Dec 07 17:39:15 rordev avahi-daemon[786]: Registering new address record for 2405:201:300b:789b:3151:6b38:8ccc:7f72 on wlp4s0.*.
+Dec 07 17:39:15 rordev systemd[1]: var-lib-docker-overlay2-opaque\x2dbug\x2dcheck2259420536-merged.mount: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit var-lib-docker-overlay2-opaque\x2dbug\x2dcheck2259420536-merged.mount has successfully entered the 'dead' state.
+Dec 07 17:39:15 rordev systemd[1061]: var-lib-docker-overlay2-opaque\x2dbug\x2dcheck2259420536-merged.mount: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit UNIT has successfully entered the 'dead' state.
+Dec 07 17:39:15 rordev dockerd[1531]: time="2024-12-07T17:39:15.617526756+05:30" level=info msg="Docker daemon" commit="24.0.5-0ubuntu1~20.04.1" graphdriver=overlay2 version=24.0.5
+Dec 07 17:39:15 rordev dockerd[1531]: time="2024-12-07T17:39:15.617846556+05:30" level=info msg="Daemon has completed initialization"
+Dec 07 17:39:15 rordev audit[2134]: [0;34m[0;34mAVC apparmor="DENIED" operation="open" profile="snap.redis.server" name="/sys/devices/system/clocksource/clocksource0/current_clocksource" pid=2134 comm="redis-server" requested_mask="r" denied_mask="r" fsuid=0 ouid=0[0m
+Dec 07 17:39:15 rordev redis.server[2134]: 2134:C 07 Dec 2024 17:39:15.636 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+Dec 07 17:39:15 rordev redis.server[2134]: 2134:C 07 Dec 2024 17:39:15.636 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+Dec 07 17:39:15 rordev redis.server[2134]: 2134:C 07 Dec 2024 17:39:15.636 * Redis version=7.2.5, bits=64, commit=f60370ce, modified=0, pid=2134, just started
+Dec 07 17:39:15 rordev redis.server[2134]: 2134:C 07 Dec 2024 17:39:15.636 # Warning: no config file specified, using the default config. In order to specify a config file use /snap/redis/1568/usr/bin/redis-server /path/to/redis.conf
+Dec 07 17:39:15 rordev redis.server[2134]: 2134:M 07 Dec 2024 17:39:15.636 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+Dec 07 17:39:15 rordev redis.server[2134]: 2134:M 07 Dec 2024 17:39:15.636 * monotonic clock: POSIX clock_gettime
+Dec 07 17:39:15 rordev redis.server[2134]: 2134:M 07 Dec 2024 17:39:15.637 * Running mode=standalone, port=6379.
+Dec 07 17:39:15 rordev redis.server[2134]: 2134:M 07 Dec 2024 17:39:15.637 # Warning: Could not create server TCP listening socket *:6379: bind: Address already in use
+Dec 07 17:39:15 rordev redis.server[2134]: 2134:M 07 Dec 2024 17:39:15.637 # Failed listening on port 6379 (tcp), aborting.
+Dec 07 17:39:15 rordev kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1733573355.631:70): apparmor="DENIED" operation="open" profile="snap.redis.server" name="/sys/devices/system/clocksource/clocksource0/current_clocksource" pid=2134 comm="redis-server" requested_mask="r" denied_mask="r" fsuid=0 ouid=0[0m
+Dec 07 17:39:15 rordev systemd[1]: [0;1;39m[0;1;31m[0;1;39msnap.redis.server.service: Main process exited, code=exited, status=1/FAILURE[0m
+-- Subject: Unit process exited
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- An ExecStart= process belonging to unit snap.redis.server.service has exited.
+-- 
+-- The process' exit code is 'exited' and its exit status is 1.
+Dec 07 17:39:15 rordev systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185msnap.redis.server.service: Failed with result 'exit-code'.[0m
+-- Subject: Unit failed
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit snap.redis.server.service has entered the 'failed' state with result 'exit-code'.
+Dec 07 17:39:15 rordev dockerd[1531]: time="2024-12-07T17:39:15.669339175+05:30" level=info msg="API listen on /run/docker.sock"
+Dec 07 17:39:15 rordev systemd[1]: Started Docker Application Container Engine.
+-- Subject: A start job for unit docker.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit docker.service has finished successfully.
+-- 
+-- The job identifier is 144.
+Dec 07 17:39:15 rordev systemd[1]: snap.redis.server.service: Scheduled restart job, restart counter is at 4.
+-- Subject: Automatic restarting of a unit has been scheduled
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- Automatic restarting of the unit snap.redis.server.service has been scheduled, as the result for
+-- the configured Restart= setting for the unit.
+Dec 07 17:39:15 rordev systemd[1]: Stopped Service for snap application redis.server.
+-- Subject: A stop job for unit snap.redis.server.service has finished
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A stop job for unit snap.redis.server.service has finished.
+-- 
+-- The job identifier is 1953 and the job result is done.
+Dec 07 17:39:15 rordev systemd[1]: Started Service for snap application redis.server.
+-- Subject: A start job for unit snap.redis.server.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit snap.redis.server.service has finished successfully.
+-- 
+-- The job identifier is 1953.
+Dec 07 17:39:16 rordev redis.server[2198]: 2198:C 07 Dec 2024 17:39:16.053 # WARNING Memory overcommit must be enabled! Without it, a background save or replication may fail under low memory condition. Being disabled, it can also cause failures without low memory condition, see https://github.com/jemalloc/jemalloc/issues/1328. To fix this issue add 'vm.overcommit_memory = 1' to /etc/sysctl.conf and then reboot or run the command 'sysctl vm.overcommit_memory=1' for this to take effect.
+Dec 07 17:39:16 rordev audit[2198]: [0;34m[0;34mAVC apparmor="DENIED" operation="open" profile="snap.redis.server" name="/sys/devices/system/clocksource/clocksource0/current_clocksource" pid=2198 comm="redis-server" requested_mask="r" denied_mask="r" fsuid=0 ouid=0[0m
+Dec 07 17:39:16 rordev redis.server[2198]: 2198:C 07 Dec 2024 17:39:16.053 * oO0OoO0OoO0Oo Redis is starting oO0OoO0OoO0Oo
+Dec 07 17:39:16 rordev redis.server[2198]: 2198:C 07 Dec 2024 17:39:16.053 * Redis version=7.2.5, bits=64, commit=f60370ce, modified=0, pid=2198, just started
+Dec 07 17:39:16 rordev redis.server[2198]: 2198:C 07 Dec 2024 17:39:16.053 # Warning: no config file specified, using the default config. In order to specify a config file use /snap/redis/1568/usr/bin/redis-server /path/to/redis.conf
+Dec 07 17:39:16 rordev redis.server[2198]: 2198:M 07 Dec 2024 17:39:16.054 * Increased maximum number of open files to 10032 (it was originally set to 1024).
+Dec 07 17:39:16 rordev redis.server[2198]: 2198:M 07 Dec 2024 17:39:16.054 * monotonic clock: POSIX clock_gettime
+Dec 07 17:39:16 rordev redis.server[2198]: 2198:M 07 Dec 2024 17:39:16.054 * Running mode=standalone, port=6379.
+Dec 07 17:39:16 rordev redis.server[2198]: 2198:M 07 Dec 2024 17:39:16.054 # Warning: Could not create server TCP listening socket *:6379: bind: Address already in use
+Dec 07 17:39:16 rordev redis.server[2198]: 2198:M 07 Dec 2024 17:39:16.055 # Failed listening on port 6379 (tcp), aborting.
+Dec 07 17:39:16 rordev kernel: [0;1;39m[0;1;31m[0;1;39maudit: type=1400 audit(1733573356.047:71): apparmor="DENIED" operation="open" profile="snap.redis.server" name="/sys/devices/system/clocksource/clocksource0/current_clocksource" pid=2198 comm="redis-server" requested_mask="r" denied_mask="r" fsuid=0 ouid=0[0m
+Dec 07 17:39:16 rordev snapd[822]: overlord.go:271: Acquiring state lock file
+Dec 07 17:39:16 rordev snapd[822]: overlord.go:276: Acquired state lock file
+Dec 07 17:39:16 rordev systemd[1]: [0;1;39m[0;1;31m[0;1;39msnap.redis.server.service: Main process exited, code=exited, status=1/FAILURE[0m
+-- Subject: Unit process exited
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- An ExecStart= process belonging to unit snap.redis.server.service has exited.
+-- 
+-- The process' exit code is 'exited' and its exit status is 1.
+Dec 07 17:39:16 rordev systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185msnap.redis.server.service: Failed with result 'exit-code'.[0m
+-- Subject: Unit failed
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit snap.redis.server.service has entered the 'failed' state with result 'exit-code'.
+Dec 07 17:39:16 rordev snapd[822]: daemon.go:247: started snapd/2.63 (series 16; classic) ubuntu/20.04 (amd64) linux/5.15.0-107-generic.
+Dec 07 17:39:16 rordev kernel: loop26: detected capacity change from 0 to 8
+Dec 07 17:39:16 rordev snapd[822]: daemon.go:340: adjusting startup timeout by 1m40s (pessimistic estimate of 30s plus 5s per snap)
+Dec 07 17:39:16 rordev systemd[1061]: tmp-syscheck\x2dmountpoint\x2d3805461295.mount: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit UNIT has successfully entered the 'dead' state.
+Dec 07 17:39:16 rordev systemd[1]: tmp-syscheck\x2dmountpoint\x2d3805461295.mount: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit tmp-syscheck\x2dmountpoint\x2d3805461295.mount has successfully entered the 'dead' state.
+Dec 07 17:39:16 rordev systemd[1]: snap.redis.server.service: Scheduled restart job, restart counter is at 5.
+-- Subject: Automatic restarting of a unit has been scheduled
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- Automatic restarting of the unit snap.redis.server.service has been scheduled, as the result for
+-- the configured Restart= setting for the unit.
+Dec 07 17:39:16 rordev systemd[1]: Stopped Service for snap application redis.server.
+-- Subject: A stop job for unit snap.redis.server.service has finished
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A stop job for unit snap.redis.server.service has finished.
+-- 
+-- The job identifier is 2030 and the job result is done.
+Dec 07 17:39:16 rordev systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185msnap.redis.server.service: Start request repeated too quickly.[0m
+Dec 07 17:39:16 rordev systemd[1]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185msnap.redis.server.service: Failed with result 'exit-code'.[0m
+-- Subject: Unit failed
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit snap.redis.server.service has entered the 'failed' state with result 'exit-code'.
+Dec 07 17:39:16 rordev systemd[1]: [0;1;31m[0;1;39m[0;1;31mFailed to start Service for snap application redis.server.[0m
+-- Subject: A start job for unit snap.redis.server.service has failed
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit snap.redis.server.service has finished with a failure.
+-- 
+-- The job identifier is 2030 and the job result is failed.
+Dec 07 17:39:16 rordev snapd[822]: backends.go:58: AppArmor status: apparmor is enabled and all features are available (using snapd provided apparmor_parser)
+Dec 07 17:39:16 rordev systemd[1]: Started Snap Daemon.
+-- Subject: A start job for unit snapd.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit snapd.service has finished successfully.
+-- 
+-- The job identifier is 197.
+Dec 07 17:39:16 rordev systemd[1]: Starting Wait until snapd is fully seeded...
+-- Subject: A start job for unit snapd.seeded.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit snapd.seeded.service has begun execution.
+-- 
+-- The job identifier is 179.
+Dec 07 17:39:16 rordev dbus-daemon[793]: [system] Activating via systemd: service name='org.freedesktop.timedate1' unit='dbus-org.freedesktop.timedate1.service' requested by ':1.66' (uid=0 pid=822 comm="/usr/lib/snapd/snapd " label="unconfined")
+Dec 07 17:39:16 rordev systemd[1]: Starting Time & Date Service...
+-- Subject: A start job for unit systemd-timedated.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit systemd-timedated.service has begun execution.
+-- 
+-- The job identifier is 2109.
+Dec 07 17:39:16 rordev dbus-daemon[793]: [system] Successfully activated service 'org.freedesktop.timedate1'
+Dec 07 17:39:16 rordev systemd[1]: Started Time & Date Service.
+-- Subject: A start job for unit systemd-timedated.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit systemd-timedated.service has finished successfully.
+-- 
+-- The job identifier is 2109.
+Dec 07 17:39:16 rordev systemd[1]: Finished Wait until snapd is fully seeded.
+-- Subject: A start job for unit snapd.seeded.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit snapd.seeded.service has finished successfully.
+-- 
+-- The job identifier is 179.
+Dec 07 17:39:16 rordev systemd[1]: Condition check resulted in Auto import assertions from block devices being skipped.
+-- Subject: A start job for unit snapd.autoimport.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit snapd.autoimport.service has finished successfully.
+-- 
+-- The job identifier is 130.
+Dec 07 17:39:16 rordev systemd[1]: snap.docker.nvidia-container-toolkit.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit snap.docker.nvidia-container-toolkit.service has successfully entered the 'dead' state.
+Dec 07 17:39:16 rordev systemd[1]: Finished Service for snap application docker.nvidia-container-toolkit.
+-- Subject: A start job for unit snap.docker.nvidia-container-toolkit.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit snap.docker.nvidia-container-toolkit.service has finished successfully.
+-- 
+-- The job identifier is 186.
+Dec 07 17:39:16 rordev systemd[1]: Started Service for snap application docker.dockerd.
+-- Subject: A start job for unit snap.docker.dockerd.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit snap.docker.dockerd.service has finished successfully.
+-- 
+-- The job identifier is 140.
+Dec 07 17:39:16 rordev kernel: [0;1;31m[0;1;39m[0;1;31maufs aufs_fill_super:918:mount[2290]: no arg[0m
+Dec 07 17:39:16 rordev kernel: [0;1;31m[0;1;39m[0;1;31moverlayfs: missing 'lowerdir'[0m
+Dec 07 17:39:17 rordev snapd[822]: stateengine.go:149: state ensure error: Get "https://api.snapcraft.io/api/v1/snaps/sections": x509: certificate has expired or is not yet valid: current time 2024-12-07T17:39:17+05:30 is after 2024-08-21T23:59:59Z
+Dec 07 17:39:20 rordev gnome-shell[1198]: [0;1;39m[0;1;31m[0;1;39mWarning: Failed to start gsd-xsettings[0m
+Dec 07 17:39:20 rordev systemd[1061]: tracker-extract.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit UNIT has successfully entered the 'dead' state.
+Dec 07 17:39:20 rordev kernel: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m[UFW BLOCK] IN=wlp4s0 OUT= MAC=01:00:5e:00:00:01:b4:a7:c6:89:9e:e0:08:00 SRC=192.168.29.1 DST=224.0.0.1 LEN=36 TOS=0x00 PREC=0xC0 TTL=1 ID=63150 PROTO=2 [0m
+Dec 07 17:39:20 rordev gnome-shell[1198]: [0;1;39m[0;1;31m[0;1;39mJS WARNING: [resource:///org/gnome/shell/ui/layout.js 24]: reference to undefined property "MetaWindowXwayland"[0m
+Dec 07 17:39:20 rordev postgresql@12-main[901]: Warning: connection to the database failed, disabling startup checks:
+Dec 07 17:39:20 rordev postgresql@12-main[901]: psql: error: fe_sendauth: no password supplied
+Dec 07 17:39:20 rordev systemd[1]: Started PostgreSQL Cluster 12-main.
+-- Subject: A start job for unit postgresql@12-main.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit postgresql@12-main.service has finished successfully.
+-- 
+-- The job identifier is 137.
+Dec 07 17:39:20 rordev systemd[1]: Starting PostgreSQL RDBMS...
+-- Subject: A start job for unit postgresql.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit postgresql.service has begun execution.
+-- 
+-- The job identifier is 136.
+Dec 07 17:39:20 rordev systemd[1]: Finished PostgreSQL RDBMS.
+-- Subject: A start job for unit postgresql.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit postgresql.service has finished successfully.
+-- 
+-- The job identifier is 136.
+Dec 07 17:39:20 rordev systemd[1]: Reached target Multi-User System.
+-- Subject: A start job for unit multi-user.target has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit multi-user.target has finished successfully.
+-- 
+-- The job identifier is 2.
+Dec 07 17:39:20 rordev systemd[1]: Reached target Graphical Interface.
+-- Subject: A start job for unit graphical.target has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit graphical.target has finished successfully.
+-- 
+-- The job identifier is 1.
+Dec 07 17:39:20 rordev systemd[1]: Starting Update UTMP about System Runlevel Changes...
+-- Subject: A start job for unit systemd-update-utmp-runlevel.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit systemd-update-utmp-runlevel.service has begun execution.
+-- 
+-- The job identifier is 117.
+Dec 07 17:39:20 rordev systemd[1]: systemd-update-utmp-runlevel.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit systemd-update-utmp-runlevel.service has successfully entered the 'dead' state.
+Dec 07 17:39:20 rordev systemd[1]: Finished Update UTMP about System Runlevel Changes.
+-- Subject: A start job for unit systemd-update-utmp-runlevel.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit systemd-update-utmp-runlevel.service has finished successfully.
+-- 
+-- The job identifier is 117.
+Dec 07 17:39:20 rordev docker.dockerd[2348]: time="2024-12-07T17:39:20.722431373+05:30" level=error msg="failed to initialize a tracing processor \"otlp\"" error="no OpenTelemetry endpoint: skip plugin"
+Dec 07 17:39:26 rordev systemd-journald[271]: Forwarding to syslog missed 129 messages.
+-- Subject: One or more messages could not be forwarded to syslog
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- One or more messages could not be forwarded to the syslog service
+-- running side-by-side with journald. This usually indicates that the
+-- syslog implementation has not been able to keep up with the speed of
+-- messages queued.
+Dec 07 17:39:26 rordev systemd[1]: NetworkManager-dispatcher.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit NetworkManager-dispatcher.service has successfully entered the 'dead' state.
+Dec 07 17:39:35 rordev org.gnome.Shell.desktop[2514]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mThe XKEYBOARD keymap compiler (xkbcomp) reports:[0m
+Dec 07 17:39:35 rordev org.gnome.Shell.desktop[2514]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m> Warning:          Unsupported maximum keycode 569, clipping.[0m
+Dec 07 17:39:35 rordev org.gnome.Shell.desktop[2514]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m>                   X11 cannot support keycodes above 255.[0m
+Dec 07 17:39:35 rordev org.gnome.Shell.desktop[2514]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185m> Internal error:   Could not resolve keysym Invalid[0m
+Dec 07 17:39:35 rordev org.gnome.Shell.desktop[2514]: [0;1;38;5;185m[0;1;39m[0;1;38;5;185mErrors from xkbcomp are not fatal to the X server[0m
+Dec 07 17:39:35 rordev systemd[1]: systemd-fsckd.service: Succeeded.
+-- Subject: Unit succeeded
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- The unit systemd-fsckd.service has successfully entered the 'dead' state.
+Dec 07 17:39:35 rordev gdm-password][2516]: [0;1;31m[0;1;39m[0;1;31mgkr-pam: unable to locate daemon control file[0m
+Dec 07 17:39:35 rordev gdm-password][2516]: gkr-pam: stashed password to try later in open session
+Dec 07 17:39:35 rordev gdm-password][2516]: pam_unix(gdm-password:session): session opened for user rordev by (uid=0)
+Dec 07 17:39:35 rordev systemd[1]: Created slice User Slice of UID 1000.
+-- Subject: A start job for unit user-1000.slice has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit user-1000.slice has finished successfully.
+-- 
+-- The job identifier is 2257.
+Dec 07 17:39:35 rordev systemd[1]: Starting User Runtime Directory /run/user/1000...
+-- Subject: A start job for unit user-runtime-dir@1000.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit user-runtime-dir@1000.service has begun execution.
+-- 
+-- The job identifier is 2184.
+Dec 07 17:39:35 rordev systemd-logind[828]: New session 2 of user rordev.
+-- Subject: A new session 2 has been created for user rordev
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- Documentation: https://www.freedesktop.org/wiki/Software/systemd/multiseat
+-- 
+-- A new session with the ID 2 has been created for the user rordev.
+-- 
+-- The leading process of the session is 2516.
+Dec 07 17:39:35 rordev systemd[1]: Finished User Runtime Directory /run/user/1000.
+-- Subject: A start job for unit user-runtime-dir@1000.service has finished successfully
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit user-runtime-dir@1000.service has finished successfully.
+-- 
+-- The job identifier is 2184.
+Dec 07 17:39:35 rordev systemd[1]: Starting User Manager for UID 1000...
+-- Subject: A start job for unit user@1000.service has begun execution
+-- Defined-By: systemd
+-- Support: http://www.ubuntu.com/support
+-- 
+-- A start job for unit user@1000.service has begun execution.
+-- 
+-- The job identifier is 2183.
+Dec 07 17:39:35 rordev systemd[2523]: pam_unix(systemd-user:session): session opened for user rordev by (uid=0)
