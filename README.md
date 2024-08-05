@@ -7,15 +7,15 @@ application up and running.
 
 ##Ruby Version
 
-**Ruby 3.3.0**
-**System Dependencies**
-**System Dependencies**
-**PostgreSQL**
-**Redis**
-**Node.js and Yarn**
-**ImageMagick**
-**Configuration**
-**Clone the repository.**
+- **Ruby 3.3.0**
+- **System Dependencies**
+- **System Dependencies**
+- **PostgreSQL**
+- **Redis**
+- **Node.js and Yarn**
+- **ImageMagick**
+- **Configuration**
+- **Clone the repository.**
 
 ##Run bundle install to install dependencies.
 
@@ -35,44 +35,44 @@ For run test suite
 Gems Used
 
 Rails 7.0.8.4
-**Sprockets-Rails**
-**pg**
-**Puma**
-**Importmap-Rails**
-**Turbo-Rails**
-**Stimulus-Rails**
-**Jbuilder**
-**Redis**
-**Debug (development and test)**
-**Web-Console (development)**
-**Capybara (test)**
-**Selenium-WebDriver (test)**
-**ActiveAdmin and related gems**
-**Devise**
+- **Sprockets-Rails**
+- **pg**
+- **Puma**
+- **Importmap-Rails**
+- **Turbo-Rails**
+- **Stimulus-Rails**
+- **Jbuilder**
+- **Redis**
+- **Debug (development and test)**
+- **Web-Console (development)**
+- **Capybara (test)**
+- **Selenium-WebDriver (test)**
+- **ActiveAdmin and related gems**
+- **Devise**
 
-**Image Processing**
-**Elasticsearch-Rails and Elasticsearch-Model**
-**JQuery-Rails**
-**Byebug**
-**Sassc-Rails and Sassc**
+- **Image Processing**
+- **Elasticsearch-Rails and Elasticsearch-Model**
+- **JQuery-Rails**
+- **Byebug**
+- **Sassc-Rails and Sassc**
 
 ##Services
 
-**Web Server: Puma**
+- **Web Server: Puma**
 
-**Job Queue: Active Job with Redis**
+- **Job Queue: Active Job with Redis**
 
-**Cache Server: Redis**
+- **Cache Server: Redis**
 
-**Search Engine: Elasticsearch**
+- **Search Engine: Elasticsearch**
 
 ##Deployment Instructions
 
-**Precompile assets: rails assets:precompile**
+- **Precompile assets: rails assets:precompile**
 
-**Migrate the database: rails db:migrate**
+- **Migrate the database: rails db:migrate**
 
-**Start the server: rails server**
+- **Start the server: rails server**
 
 ##API Search Example
 
